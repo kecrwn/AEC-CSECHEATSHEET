@@ -1,0 +1,24 @@
+/** Curriculum Terminal print profile: preserve the graphite / Route Yellow visual language in PDF output. */
+@media print {
+  @page { size: A4; margin: 9mm; }
+  html, body, .guide-shell, .document { background: #0e1113 !important; color: #f0f2e9 !important; }
+  .topbar, .rail, .mobile-index, .hero-foot button, .central button, footer button { display: none !important; }
+  .document { margin: 0 !important; padding: 0 !important; }
+  .hero { min-height: 245mm; padding: 20mm !important; page-break-after: always; }
+  .hero::after { background: linear-gradient(90deg,rgba(14,17,19,.98),rgba(14,17,19,.56)) !important; }
+  h1, h2, h3, p, td, th, .section-lead h2, .section-lead p, .out h3, .out p, .source-banner h2, .source-banner p, .hostel h3, .hostel p { color: #f0f2e9 !important; }
+  .guide-section, .guide-section:nth-of-type(even), .signal { background: #0e1113 !important; color: #f0f2e9 !important; border-color: rgba(240,242,233,.25) !important; break-inside: avoid; }
+  .guide-section { padding: 15mm 8mm !important; }
+  .section-lead { grid-template-columns: 30px minmax(0, 1fr) !important; }
+  .warning, .route-list, .batch-note, .sem-head, .table-scroll, .check, .two-notes, .action-strip, .library-grid, .conflict, .central, .campus-grid, .social-list, .reliability, .references { margin-left: 30px !important; }
+  .table-scroll { overflow: visible !important; }
+  .table-scroll table { min-width: 0 !important; font-size: 9px !important; }
+  th, td { padding: 6px !important; color: #edf0e6 !important; border-color: rgba(240,242,233,.18) !important; }
+  th { color: #9bb7c4 !important; background: rgba(240,242,233,.08) !important; }
+  .signal { grid-template-columns: .7fr 1.3fr !important; min-height: 150mm !important; }
+  .signal-copy { padding: 18mm !important; }
+  .signal-copy>div, .route-list, .social-list, .references { border-color: rgba(240,242,233,.25) !important; }
+  .opac, .fee, .hostel, .reliability p { background: #151b1e !important; }
+  .source-banner { margin: -15mm -8mm 13mm !important; padding: 16mm 38px !important; }
+  footer { margin: 0 -8mm !important; padding: 12mm 8mm !important; background: #080a0b !important; }
+}

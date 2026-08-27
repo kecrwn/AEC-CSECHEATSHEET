@@ -1,0 +1,2074 @@
+MAULANA ABUL KALAM AZAD UNIVERSITY OF TECHNOLOGY, WEST BENGAL
+                    Haringhata, Nadia – 741249 | City Campus: Salt Lake, Kolkata – 700064
+
+
+
+
+                          DETAILED SYLLABUS
+                                  First Year — Semesters I
+                         Common to all Bachelor of Technology programmes of the University
+
+         Prepared against the finalised NEP 2020 Compliant Curriculum Structure for the First Year
+           (B.Tech. First Year, MAKAUT 2026 — Effective from Academic Year 2026–27)
+
+   Outcome-Based · NEP 2020 · NAAC and NBA Aligned · Eleven Programme Outcomes (NBA GAPC v4.0)
+                                    Maulana Abul Kalam Azad University of Technology, West Bengal
+             Detailed Syllabus · First Year (Finalised Structure, 11 POs) · Common to all B.Tech. programmes · Effective A.Y. 2026–27
+
+
+
+Contents
+Foreword — What this document is, and the changes carried into this redesign
+Part I – The Outcome-Based Framework — The eleven Programme Outcomes (NBA GAPC v4.0), Bloom levels, articulation,
+attainment
+Part II – The Bridge from Class XII — Prerequisite mapping against WBCHSE, CBSE and ISC
+Part III – The Finalised First-Year Structure and the Group Rotation — The two semester tables and how the science cycle rotates
+Part IV – Detailed Syllabi: Theory Courses — Nine theory courses
+Part V – Detailed Syllabi: Laboratory and Practical Courses — Eight laboratory and practical courses
+Part VI – Detailed Syllabi: Sessional and Non-Credit Mandatory Courses — Four courses
+Part VII – Sources and Benchmarking — Model curricula and institutional syllabi consulted
+
+
+
+
+                                                                  Page 2 of 43
+                                    Maulana Abul Kalam Azad University of Technology, West Bengal
+             Detailed Syllabus · First Year (Finalised Structure, 11 POs) · Common to all B.Tech. programmes · Effective A.Y. 2026–27
+
+
+
+Foreword
+This document contains the detailed syllabus of the courses of the first year, prepared against the finalised NEP 2020
+compliant first-year structure of the University (B.Tech. First Year, MAKAUT 2026), effective from the academic year 2026–
+27. Because Semesters I and II are common to every B.Tech. programme of the University, this syllabus is a University
+document rather than a departmental one.
+The group rotation. The structure balances the load on the science and workshop faculty of the affiliated colleges by
+rotating the basic-science cycle across the two semesters. In the finalised structure, Physics is taken in the first semester by
+the branches other than Computer Science and its allied branches, and Chemistry in the first semester by Computer Science
+and its allied branches; the two exchange in the second semester. Engineering Graphics and Workshop Practice rotate in the
+same way, and the two mandatory non-credit courses — the Indian Constitution and the Indian Knowledge System — are
+likewise taken one in each semester and rotated by group. The content of each course is identical whichever semester it falls
+in, and this document therefore gives one syllabus for each course, marked “First or Second semester (by group)” where the
+rotation applies. Part V sets the rotation out in full.
+The Programme Outcomes have been reduced from twelve to the eleven of the National Board of Accreditation’s GAPC
+v4.0 framework, aligned with the Washington Accord; every CO–PO articulation matrix in this document is accordingly an
+eleven-column matrix, and Part I sets out the eleven outcomes and the mapping from the former twelve. Second, Basic
+Electrical and Electronics Engineering is now a four-credit course delivered as 3-1-0 — three lectures and a tutorial — and
+its syllabus carries the strengthened safety, semiconductor and operational-amplifier content settled with the Board, its
+laboratory being modified to match. Third, Programming for Problem Solving now carries an introduction to Artificial
+Intelligence (a full module in the theory and two AI-tools exercises in the laboratory), and both are titled accordingly. Fourth,
+the contact hours of every course have been set against the University’s norm — twelve to fifteen hours for each credit of
+theory, and twenty-four to thirty hours for each credit of practical or sessional work — and the hours are shown in each
+course header. Fifth, Engineering Chemistry with its laboratory is a full part of the year through the rotation, the
+Mathematics courses are generic and branch-neutral, and Environmental Science carries the UGC draft Mission LiFE
+framework.
+The first-semester courses are scoped a little lighter, because admission to the first year and the effective teaching window of
+the first semester is shorter than the calendar suggests. And the two Mathematics courses are generic: where a programme
+needs mathematics particular to it, that requirement is met in Mathematics-III in Semester III, which each Department
+frames, or in Module I of the relevant discipline course — so that the first-year mathematics, and the common examination
+in it, remain uniform across every branch.
+
+
+
+
+                                                                  Page 3 of 43
+                                            Maulana Abul Kalam Azad University of Technology, West Bengal
+                 Detailed Syllabus · First Year (Finalised Structure, 11 POs) · Common to all B.Tech. programmes · Effective A.Y. 2026–27
+
+
+
+
+Part I — The Outcome-Based Framework
+
+I.1 The eleven Programme Outcomes (NBA GAPC v4.0)
+The National Board of Accreditation, under its updated GAPC v4.0 framework aligned with the Washington Accord, defines
+eleven Programme Outcomes for undergraduate engineering, consolidating the former twelve by merging the societal and
+environmental attributes into a single outcome. These eleven are adopted as the Programme Outcomes of every B.Tech.
+programme of the University and are used in the articulation matrices of this document.
+    PO                         Attribute                                            What the graduate is expected to be able to do
+                                                             Apply mathematics, science, computing and engineering fundamentals to solve complex
+   PO1         Engineering Knowledge
+                                                             engineering problems.
+                                                             Identify, formulate and analyse complex engineering problems to reach substantiated
+   PO2         Problem Analysis
+                                                             conclusions.
+                                                             Design systems, components or processes that meet specified needs with due regard for
+   PO3         Design / Development of Solutions
+                                                             public safety and cultural, societal and environmental factors.
+               Conduct Investigations of Complex             Use research-based methods — design of experiment, analysis and interpretation of data —
+   PO4
+               Problems                                      to reach valid conclusions.
+                                                             Select and apply modern engineering and information-technology tools to complex
+   PO5         Engineering Tool Usage
+                                                             activities, with an understanding of their limitations.
+                                                             Assess the global, societal, health, safety, legal, cultural and environmental impacts of
+   PO6         The Engineer and the World
+                                                             engineering practice (the former society and environment outcomes, merged).
+   PO7         Ethics                                        Apply professional ethics, human values, and the principles of diversity and inclusion.
+               Individual and Collaborative Team
+   PO8                                                       Function effectively as an individual and as a member or leader of diverse teams.
+               Work
+   PO9         Communication                                 Communicate clearly and inclusively with the engineering community and with society.
+  PO10         Project Management and Finance                Apply engineering-management and economic decision-making principles to projects.
+  PO11         Life-Long Learning                            Recognise the need for, and have the ability to engage in, independent and life-long learning.
+Programme Specific Outcomes are framed by each Department for its own programme; since these courses are common to all programmes, no PSO mapping is given here.
+
+I.2 Mapping from the former twelve outcomes
+For the reader familiar with the earlier twelve-outcome model, the correspondence is as follows, so that an existing mapping
+can be migrated without loss.
+                           Former (12 PO) model                                                           New (11 PO) model — GAPC v4.0
+PO1 Engineering Knowledge                                                             PO1 Engineering Knowledge
+PO2 Problem Analysis                                                                  PO2 Problem Analysis
+PO3 Design / Development of Solutions                                                 PO3 Design / Development of Solutions
+PO4 Conduct Investigations                                                            PO4 Conduct Investigations of Complex Problems
+PO5 Modern Tool Usage                                                                 PO5 Engineering Tool Usage
+PO6 The Engineer and Society + PO7 Environment and
+                                                                                      PO6 The Engineer and the World (the two merged)
+Sustainability
+PO8 Ethics                                                                            PO7 Ethics (now including human values, diversity and inclusion)
+PO9 Individual and Team Work                                                          PO8 Individual and Collaborative Team Work
+PO10 Communication                                                                    PO9 Communication
+PO11 Project Management and Finance                                                   PO10 Project Management and Finance
+PO12 Life-Long Learning                                                               PO11 Life-Long Learning
+
+
+
+
+                                                                               Page 4 of 43
+                                        Maulana Abul Kalam Azad University of Technology, West Bengal
+                Detailed Syllabus · First Year (Finalised Structure, 11 POs) · Common to all B.Tech. programmes · Effective A.Y. 2026–27
+
+
+
+I.3 Levels of the revised Bloom taxonomy
+     Level                  Verb family                                  What the student is asked to do in the first year
+L1 – Remember define, state, list, recall            Reproduce a definition, a law or a standard value. Group A of the paper and the online test.
+L2 –
+                   explain, describe, classify       Explain a principle or interpret a diagram or curve. Groups A and B.
+Understand
+                                                     Work a problem or a procedure by an established method. Groups B and C, and the practical
+L3 – Apply         compute, solve, use
+                                                     work.
+L4 – Analyse       derive, compare, distinguish      Break a problem into parts, derive a result, or compare alternatives. Group C.
+                                                     Choose between options against criteria and defend the choice. Group C and the case-based
+L5 – Evaluate      assess, justify, select
+                                                     courses.
+                                                     Reached in the first year chiefly in the design and modelling of Graphics and in later project
+L6 – Create        design, formulate, construct
+                                                     work.
+
+
+I.4 The articulation convention and the computation of attainment
+The correlation between a Course Outcome and a Programme Outcome is recorded at three levels — 3 substantial, 2
+moderate, 1 slight, and a dash for none — the mapping being at the level of the Course Outcome, so that attainment can be
+traced to an examination question or a laboratory task. A level of 3 is entered only where a question or task in this course
+could by itself furnish evidence of that outcome.
+Attainment is computed for each Course Outcome from direct evidence (the marks on the questions and tasks mapped to it)
+and indirect evidence (an outcome-based student feedback instrument) in the ratio of eighty to twenty.
+      Attainment level                       Criterion (direct)                                      Action required
+                                     Not less than 70 % of the class
+Level 3 — attained                   secures 60 % or more of the        Record and maintain.
+                                     marks mapped to the outcome
+                                     Between 55 % and 70 % of the
+Level 2 — partly attained                                               The teacher records a corrective action.
+                                     class does so
+                                     Fewer than 55 % of the class       The Department reviews delivery, prerequisite provision and question
+Level 1 — not attained
+                                     does so                            setting.
+The thresholds are indicative and are placed before the Board for adoption; whichever are adopted must be applied
+uniformly, since the online end-semester continuous assessment is common to all colleges.
+
+
+
+
+                                                                       Page 5 of 43
+                                      Maulana Abul Kalam Azad University of Technology, West Bengal
+               Detailed Syllabus · First Year (Finalised Structure, 11 POs) · Common to all B.Tech. programmes · Effective A.Y. 2026–27
+
+
+
+
+Part II — The Bridge from Class XII
+The largest single cause of first-year failure is the discontinuity between what the school syllabus taught and what the first-
+year course assumes. This Part states the assumption course by course and provides for the gap.
+       Course                 Assumed from the school syllabus                         Board reference                Provision where absent
+                                                                                                                    Ten-hour non-credit bridge in
+                        Calculus, matrices, vectors, complex numbers, first-    CBSE XII Units II–IV, IX;
+Mathematics I & II                                                                                                  the first three weeks, recorded
+                        order ODEs                                              WBCHSE; ISC
+                                                                                                                    in the WCA
+                                                                                                                    Module I begins from the
+                        Oscillations and waves; optics; electricity and                                             differential equation of SHM;
+Physics                                                                         CBSE XI–XII; WBCHSE; ISC
+                        magnetism; modern physics                                                                   earlier material revised in two
+                                                                                                                    hours
+                        Atomic structure and bonding; thermodynamics,                                               Three-hour bridge for students
+Chemistry                                                                       CBSE XI–XII; WBCHSE; ISC
+                        equilibrium, electrochemistry; organic chemistry                                            without Class XII Chemistry
+                                                                                                                    Module I is self-contained and
+                      General science of Class X; Higher Secondary              WBBSE / CBSE / ICSE X;              supplies what a student
+Biology for Engineers
+                      Biology where taken                                       CBSE XII Biology                    without Class XII Biology
+                                                                                                                    requires
+                                                                                                                    Mesh and nodal methods
+Basic Electrical &      Ohm’s and Kirchhoff’s laws; AC and the LCR              CBSE XII Units II–IV, IX–XI;        taught from first principles;
+Electronics             circuit; diode, transistor and gates                    WBCHSE; ISC                         safety and wiring assume
+                                                                                                                    nothing
+                                                                                                                    No programming or AI
+Programming &           Computer Science / Informatics Practices where          CBSE XI–XII; WBCHSE                 assumed; Modules I–II
+Introduction to AI      taken; otherwise nothing                                Computer Application                compressed where the class
+                                                                                                                    has programmed
+English / Language                                                              WBCHSE / CBSE / ISC                 A first-week diagnostic places
+                        English of the Class XII course
+Lab                                                                             English                             students in graded groups
+                                                                                                                    No prior drawing or workshop
+Graphics &                                                                      WBBSE / CBSE / ICSE;                experience assumed; each
+                        Plane and solid geometry; 3-D coordinate geometry
+Workshop                                                                        CBSE XII Unit IV                    begins from the standard and
+                                                                                                                    the safety induction
+Environmental
+                                                                                                                    Self-contained; no prior study,
+Science; IKS;           General science, geography and civics of Class X        WBBSE / CBSE / ICSE
+                                                                                                                    and no Sanskrit, assumed
+Constitution
+
+
+Three provisions apply across the first year. The Mathematics bridge is conducted for the whole class; the English
+diagnostic is used for placement and not for marks; and the Department is to identify the students at risk within the first
+three weeks and place them in the remedial and mentoring arrangement required under NAAC Criterion 2.2.
+
+
+
+
+                                                                    Page 6 of 43
+                                         Maulana Abul Kalam Azad University of Technology, West Bengal
+               Detailed Syllabus · First Year (Finalised Structure, 11 POs) · Common to all B.Tech. programmes · Effective A.Y. 2026–27
+
+
+
+
+Part III — The Finalised First-Year Structure and the Group Rotation
+
+III.1 Semester I — Total 20 credits
+
+
+                                                                                                                                           Course
+     Category               UPID               Code                                Course                  L–T–P     Credit     Notes
+                                                                                                                                            Type
+                                                                                                                               Both
+ Basic Science course 1100001           26-BS-M101             Mathematics – I                             3–0–0        3                 Theory
+                                                                                                                               groups
+
+                          1100002/      26-BS-PH101 /          Physics (CSE & allied) / Chemistry (other                       By
+ Basic Science course                                                                                      3–0–0        3                 Theory
+                          1100003       26-BS-CH101            branches)                                                       group
+
+ Engineering Sc                                                Basic Electrical and Electronics                                Both
+                          1100004       26-ES-EE101                                                        3–1–0        4                 Theory
+ Course                                                        Engineering                                                     groups
+
+ Ability
+ Enhancement                                                                                                                   Both
+                          1100005       26-AEC-101             English for Communication Skills            2–0–0        2                 Theory
+                                                                                                                               groups
+ Course
+
+                          1100006/      26-BS-PH191 /          Physics Lab (CSE & allied) / Chemistry                          By
+ Basic Science course                                                                                      0–0–3        1.5               Practical
+                          1100007       26-BS-CH191            Lab (other branches)                                            group
+
+                                                               Engineering Graphics & Design (CSE &
+ Engineering Science 1100008/           26-ES-ME191 /                                                                          By
+                                                               allied) / Workshop Practice (other          0–0–4        2                 Practical
+ Course              1100009            26-ES-ME192                                                                            group
+                                                               branches)
+
+ Engineering Science                                           Basic Electrical and Electronics                                Both
+                     1100010            26-ES-EE191                                                        0–0–3        1.5               Practical
+ Course                                                        Engineering Lab                                                 groups
+
+ Value Added                                                                                                                   Both
+                          1100011       26-VAC-181             NCC / NSS / Yoga and Sports                 0–0–4        2                 Sessional
+ Course                                                                                                                        groups
+
+ Skill Enhancement                                             Skill Enhancement Course — MOOCs /                              Both
+                          1100012       26-SEC-181                                                         0–0–2        1                 Sessional
+ Course                                                        Skills                                                          groups
+
+ Value Added              1100013/      26-MC-181 /            Indian Constitution (CSE & allied) /                   Non-     By
+                                                                                                           2–0–0                          Sessional
+ Course                   1100014       26-MC-182              Indian Knowledge System (others)                       credit   group
+
+                                                               Total of Semester I                                      20
+  Preceded by the three-week Induction Programme with Universal Human Values (mandatory, non-credit).
+
+
+
+
+                                                                           Page 7 of 43
+                                        Maulana Abul Kalam Azad University of Technology, West Bengal
+              Detailed Syllabus · First Year (Finalised Structure, 11 POs) · Common to all B.Tech. programmes · Effective A.Y. 2026–27
+
+
+
+III.2 How the rotation is read
+                                        Group A — CSE and allied branches                             Group B — other branches
+
+                                Physics + Physics Lab; Engineering Graphics; Indian       Chemistry + Chemistry Lab; Workshop Practice;
+Semester I
+                                Constitution (non-credit)                                 Indian Knowledge System(non-credit)
+                                Chemistry + Chemistry Lab; Workshop Practice;             Physics + Physics Lab; Engineering Graphics; Indian
+Semester II
+                                Indian Knowledge System(non-credit)                       Constitution (non-credit)
+Whichever semester a course falls in, its syllabus is identical; the detailed syllabi that follow are given once per course. The
+Department assigns its branches to the two groups so that the numbers, and hence the load on the science and workshop
+faculty, are balanced across the two semesters.
+
+
+                 Group A — CSE and allied branches                                           Group B — other branches
+    B.Tech in Computer Sc. & Engineering                                   B.Tech in Electronics & Communications Engg
+    B.Tech in Computer Science And Engineering (Artificial
+                                                                           B.Tech in Electrical Engineering
+    Intelligence and Machine Learning)
+    B.Tech in Computer Science and Business System                         B.Tech in Mechanical Engineering
+    B.Tech in Computer Science and Engineering
+                                                                           B.Tech in Civil Engineering
+    (Data Science)
+    B.Tech in Computer Science and Engineering
+                                                                           B.Tech in Information Technology
+    (Cyber Security)
+    B.Tech in Computer Science And Engineering (Internet of Things) B.Tech in Electrical & Electronics Engineering
+    B.Tech in Computer Science and Engineering (Artificial
+                                                                           B.Tech in Textile Technology
+    Intelligence)
+    B.Tech in Computer Science And Engineering (Internet of Things
+                                                                           B.Tech in Applied Electronics & Instrumentation Engineering
+    and Cyber Security including Block Chain Technology)
+    B.Tech in Computer Science & Design (CSD)                              B.Tech in Food Technology
+    B.Tech in Computer Science and Information Technology                  B.Tech in Apparel & Production Management
+    B.Tech in Electronics and Computer Science                             B.Tech in Civil & Environmental Engineering
+    B.Tech in Electrical & Computer Engineering                            B.Tech in Biomedical Engineering
+    B.Tech in Artificial Intelligence and Machine Learning                 B.Tech in Chemical Engineering
+    B.Tech in Artificial Intelligence And Data Science                     B.Tech in Leather Technology
+    B.Tech in Artificial Intelligence                                      B.Tech in Automobile Engineering
+
+
+
+
+                                                                   Page 8 of 43
+                                   Maulana Abul Kalam Azad University of Technology, West Bengal
+            Detailed Syllabus · First Year (Finalised Structure, 11 POs) · Common to all B.Tech. programmes · Effective A.Y. 2026–27
+
+
+
+
+Part IV — Detailed Syllabi: Theory Courses
+The four theory courses follow, in the order in which they appear in the structure. Each carries a header block, prerequisites
+mapped to the school syllabus, objectives, Course Outcomes with Bloom levels, the eleven-column CO–PO matrix, the
+module-wise course plan with hours, cross-cutting notes, texts, suggested SWAYAM / NPTEL resources, the assessment
+map, and question-paper notes.
+
+
+
+
+                                                                 Page 9 of 43
+                                       Maulana Abul Kalam Azad University of Technology, West Bengal
+               Detailed Syllabus · First Year (Finalised Structure, 11 POs) · Common to all B.Tech. programmes · Effective A.Y. 2026–27
+
+
+
+26-BS-M101 — Mathematics – I
+Course Code                       26-BS-M101                                Category                         Basic Science Course
+Course Title                      Mathematics – I                           L–T–P                            3–0–0
+Credits                           3                                         Contact Hours                    36
+Semester                          First                                     Assessment                       Theory: CA 30 + ESE 70
+
+
+
+Prerequisites
+The course builds on the Higher Secondary Mathematics of WBCHSE, CBSE or ISC. Being a first-semester course it is scoped a
+little lighter, since admission to the first year is habitually late and the effective teaching window is shorter than the calendar
+suggests. The following are assumed:
+   • Differentiation and integration of elementary functions; the idea of a limit and of continuity (CBSE XII Units III–IV;
+     WBCHSE Class XII; ISC).
+   • Matrices and determinants to the third order and the solution of a linear system (CBSE XII Unit III).
+   • Vectors in two and three dimensions (CBSE XII Unit IV) and complex numbers in algebraic and polar form (CBSE
+     XI).
+   • A ten-hour bridge is conducted for the whole class in the first three weeks, re-establishing differentiation, integration
+     and the standard notation; it is recorded in the whole-semester component and is not separately credited.
+Course Objectives
+   • To establish the differential and integral calculus of one and several variables as the working language of engineering
+     analysis.
+   • To develop competence in the matrix and eigenvalue methods that underlie later courses across every branch.
+   • To introduce the convergence of sequences and series as the basis of approximation.
+   • To do so on a common, branch-neutral footing, leaving discipline-specific mathematics to Semester III.
+Course Outcomes
+On completion of the course the student will be able to:
+    CO                                                              Statement                                                             Bloom
+               Apply the differential calculus of one and several variables, including partial differentiation, to engineering
+   CO1                                                                                                                                L3 – Apply
+               functions.
+   CO2         Evaluate definite, improper and multiple integrals and use them to compute area, volume and average value.             L3 – Apply
+               Apply matrix methods — rank, the solution of linear systems, eigenvalues and eigenvectors — to engineering
+   CO3                                                                                                                                L3 – Apply
+               problems.
+   CO4         Test an infinite series for convergence and construct elementary power-series approximations.                          L4 – Analyse
+
+CO–PO Articulation Matrix
+Correlation: 3 substantial, 2 moderate, 1 slight, – none. Mapped against the eleven Programme Outcomes of the NBA (GAPC v4.0).
+CO \ PO        PO1        PO2         PO3       PO4        PO5        PO6        PO7        PO8        PO9        PO10      PO11
+   CO1           3          2          1          1          1          –         –          –          –          –             1
+   CO2           3          2          1          1          1          –         –          –          –          –             1
+   CO3           3          3          2          1          2          –         –          –          –          –             1
+   CO4           3          2          1          1          1          –         –          –          –          –             2
+
+
+
+
+                                                                     Page 10 of 43
+                                         Maulana Abul Kalam Azad University of Technology, West Bengal
+                  Detailed Syllabus · First Year (Finalised Structure, 11 POs) · Common to all B.Tech. programmes · Effective A.Y. 2026–27
+
+
+Course Plan — Module-wise Syllabus
+ Module                         Title                                                    Contents                                            Hours
+                                                       Review in brief of limits, continuity and differentiation; successive
+                                                       differentiation and Leibnitz’s theorem; Rolle’s and the mean-value
+      I         Calculus of a Single Variable          theorems; Taylor’s and Maclaurin’s series with elementary applications;                 9
+                                                       maxima and minima of a function of one variable; definite and improper
+                                                       integrals and the reduction formulae in outline.
+                                                       Functions of two and more variables; partial derivatives; the total
+                                                       differential and its use in error estimation; the chain rule; Euler’s theorem
+      II        Calculus of Several Variables                                                                                                  9
+                                                       on homogeneous functions; maxima and minima of a function of two
+                                                       variables and the method of Lagrange multipliers in outline.
+                                                       Double integrals in Cartesian and polar coordinates; change of order of
+   III          Multiple Integrals                                                                                                             8
+                                                       integration; computation of area and volume; the idea of the triple integral.
+                                                       Rank of a matrix by elementary transformation; consistency and solution of
+                                                       a linear system; eigenvalues and eigenvectors; the Cayley–Hamilton
+   IV           Matrices and Linear Algebra                                                                                                   10
+                                                       theorem and its use; diagonalisation in outline. The linear-algebra content is
+                                                       generic; discipline-specific extensions are left to Mathematics-III.
+
+
+Cross-cutting notes. This is a generic mathematics course, common to every branch of the University; it deliberately carries no
+discipline-specific material. Where a programme requires mathematics particular to it — discrete structures and graph theory for
+the computing branches, additional transforms and complex analysis for the electronics and electrical branches, additional statistics
+and numerical methods for the others — that requirement is to be met either in Mathematics-III in Semester III, which each
+Department frames for its own programme, or in Module I of the relevant discipline course where it is small enough to be carried
+there. The first-year mathematics is thus kept uniform, so that the common first-year examination and inter-branch mobility are
+preserved.
+
+Text and Reference Books
+  •        B. S. Grewal, Higher Engineering Mathematics, Khanna Publishers.
+  •        Erwin Kreyszig, Advanced Engineering Mathematics, Wiley.
+  •        G. B. Thomas and R. L. Finney, Calculus and Analytic Geometry, Pearson.
+  •        N. P. Bali and M. Goyal, A Textbook of Engineering Mathematics, Laxmi Publications.
+Suggested SWAYAM / NPTEL and Online Resources
+  •        NPTEL — Engineering Mathematics I (Prof. Jitendra Kumar, IIT Kharagpur), 12 weeks.
+  •        NPTEL — Multivariable Calculus, 12 weeks.
+  •        NPTEL — Matrix Analysis with Applications / Linear Algebra, 12 weeks.
+  •        SWAYAM — Mathematics I (AICTE / SWAYAM), as offered.
+
+
+Question-paper note. The paper is predominantly a problem paper: at least two-thirds of the marks of Groups B and C are for
+the working of problems, not for statement of theory. No question draws on discipline-specific material, since the class is common
+to all branches.
+
+
+
+
+                                                                       Page 11 of 43
+                                       Maulana Abul Kalam Azad University of Technology, West Bengal
+               Detailed Syllabus · First Year (Finalised Structure, 11 POs) · Common to all B.Tech. programmes · Effective A.Y. 2026–27
+
+
+
+26-BS-PH101 — Physics
+Course Code                       26-BS-PH101                              Category                        Basic Science Course
+Course Title                      Physics                                  L–T–P                           3–0–0
+Credits                           3                                        Contact Hours                   36
+Semester                          First or Second (by group)               Assessment                      Theory: CA 30 + ESE 70
+
+
+
+Prerequisites
+Builds on the Higher Secondary Physics of WBCHSE, CBSE or ISC. Under the group rotation it is taken in one semester by one
+group and in the other by the second; the syllabus is identical. Assumed:
+   •    Oscillations, waves and the elements of optics (CBSE XI Units VII, X; WBCHSE; ISC).
+   •    Electrostatics, current electricity and magnetism (CBSE XII Units I–IV).
+   •    The elements of modern physics — the photoelectric effect and the Bohr atom (CBSE XII Units VIII–IX).
+   •    Calculus to the level of Mathematics-I, taken concurrently.
+Course Objectives
+   •    To establish the physics of oscillations and waves as the basis of much of engineering.
+   •    To develop the electromagnetic theory and the wave picture of light used across the branches.
+   •    To introduce quantum and solid-state physics as the foundation of modern devices.
+   •    To connect each principle to an engineering application and to laboratory measurement.
+Course Outcomes
+On completion of the course the student will be able to:
+       CO                                                          Statement                                                              Bloom
+   CO1         Apply the theory of simple harmonic, damped and forced oscillations and of waves to physical systems.                  L3 – Apply
+   CO2         Apply the principles of interference, diffraction and polarisation to optical phenomena and instruments.               L3 – Apply
+   CO3         Apply the laws of electromagnetism, including Maxwell’s equations in outline, to fields and waves.                     L3 – Apply
+   CO4         Apply the elements of quantum and solid-state physics to the behaviour of materials and devices.                      L4 – Analyse
+   CO5         Relate the theory to measurement, estimating the uncertainty of a physical quantity determined in the laboratory.     L4 – Analyse
+
+CO–PO Articulation Matrix
+Correlation: 3 substantial, 2 moderate, 1 slight, – none. Mapped against the eleven Programme Outcomes of the NBA (GAPC v4.0).
+CO \ PO        PO1       PO2          PO3      PO4        PO5        PO6        PO7        PO8       PO9        PO10       PO11
+   CO1           3         2           1         1          1          –         –          –          –          –          1
+   CO2           3         2           1         2          1          –         –          –          –          –          1
+   CO3           3         3           2         2          2          1         1          –          –          –          1
+   CO4           3         2           2         2          2          1         1          –          –          –          2
+   CO5           3         2           1         3          2          –         –          1          1          –          2
+
+
+
+
+                                                                    Page 12 of 43
+                                         Maulana Abul Kalam Azad University of Technology, West Bengal
+                 Detailed Syllabus · First Year (Finalised Structure, 11 POs) · Common to all B.Tech. programmes · Effective A.Y. 2026–27
+
+
+Course Plan — Module-wise Syllabus
+ Module                        Title                                                    Contents                                            Hours
+                                                      Simple harmonic motion from the differential equation; damped and
+                                                      forced oscillations, resonance and the quality factor; coupled oscillators in
+      I         Oscillations and Waves                                                                                                        8
+                                                      outline; the wave equation, travelling and standing waves; superposition,
+                                                      beats and the Doppler effect.
+                                                      Interference — Young’s experiment, thin films, Newton’s rings; diffraction
+                                                      — single slit, the grating and its resolving power; polarisation — Malus’
+      II        Wave Optics                                                                                                                   8
+                                                      law, double refraction, the quarter- and half-wave plate; the elements of the
+                                                      laser and of optical fibre.
+                                                      Electrostatics and magnetostatics in review; the laws of Gauss, Faraday and
+                                                      Ampère; the displacement current; Maxwell’s equations in integral and
+   III          Electromagnetism                                                                                                              8
+                                                      differential form (statement and meaning); the electromagnetic wave in
+                                                      vacuum in outline.
+                                                      The failure of classical physics; the photoelectric and Compton effects; the
+                                                      de Broglie hypothesis and wave–particle duality; the uncertainty principle;
+   IV           Quantum Physics                                                                                                               7
+                                                      the Schrödinger equation and the particle in a box; the quantum numbers
+                                                      in outline.
+                                                      Free-electron theory of metals in outline; the band theory of solids and the
+                                                      distinction of conductor, semiconductor and insulator; intrinsic and
+      V         Solid-State and Modern Physics                                                                                                5
+                                                      extrinsic semiconductors; superconductivity in brief; an introduction to
+                                                      nanomaterials and their engineering use.
+
+
+Cross-cutting notes. The physics laboratory (BS-PH191/291) is taken concurrently and is assessed separately; the theory is to be
+sequenced so that the relevant principle precedes the experiment. Module V connects forward to the Basic Electrical and
+Electronics course and to the materials content of the disciplines.
+
+Text and Reference Books
+  •        A. Beiser, Concepts of Modern Physics, McGraw-Hill.
+  •        D. J. Griffiths, Introduction to Electrodynamics, Pearson.
+  •        Halliday, Resnick and Walker, Fundamentals of Physics, Wiley.
+  •        B. B. Laud, Electromagnetics, New Age.
+  •        A. Ghatak, Optics, McGraw-Hill.
+Suggested SWAYAM / NPTEL and Online Resources
+  •        NPTEL — Engineering Physics I / II (IITs), 12 weeks.
+  •        NPTEL — Waves and Oscillations, 8 / 12 weeks.
+  •        NPTEL — Semiconductor Physics and Devices, 12 weeks.
+  •        Virtual Labs (Ministry of Education) — Optics, Modern Physics and Electricity & Magnetism laboratories.
+
+
+Question-paper note. At least one question in Group C is to be a numerical problem — a resonance, interference-fringe, field or
+quantum calculation — with units and significant figures required. Standard constants are printed with the paper.
+
+
+
+
+                                                                      Page 13 of 43
+                                       Maulana Abul Kalam Azad University of Technology, West Bengal
+               Detailed Syllabus · First Year (Finalised Structure, 11 POs) · Common to all B.Tech. programmes · Effective A.Y. 2026–27
+
+
+
+26-BS-CH101 — Chemistry
+Course Code                       26-BS-CH101                              Category                         Basic Science Course
+Course Title                      Chemistry                                L–T–P                            3–0–0
+Credits                           3                                        Contact Hours                    36
+Semester                          First or Second (by group)               Assessment                       Theory: CA 30 + ESE 70
+
+
+
+Prerequisites
+Builds on the Higher Secondary Chemistry of WBCHSE, CBSE or ISC. Under the group rotation it is taken in one semester by one
+group and in the other by the second; the syllabus is identical. Assumed:
+   • Atomic structure, the quantum numbers and electronic configuration; the periodic table (CBSE XI Units II–III;
+     WBCHSE).
+   • Chemical bonding — ionic, covalent and coordinate bonds, VSEPR and hybridisation (CBSE XI Unit IV).
+   • Thermodynamics, equilibrium, electrochemistry and kinetics (CBSE XI Unit VI; XII Units III–IV).
+   • A three-hour bridge on atomic structure, bonding and the mole concept is provided for students without Class XII
+     Chemistry.
+Course Objectives
+   • To establish the quantum-mechanical picture of the atom and the molecule as the basis of the properties of materials.
+   • To develop the thermodynamic, kinetic and electrochemical reasoning used to predict whether and how fast a process
+     occurs.
+   • To connect the structure of materials and of water to their engineering behaviour and treatment.
+   • To introduce the instrumental methods by which composition and structure are determined.
+Course Outcomes
+On completion of the course the student will be able to:
+    CO                                                             Statement                                                              Bloom
+               Apply the quantum-mechanical and molecular-orbital picture to the structure and properties of molecules and
+   CO1                                                                                                                                L3 – Apply
+               materials.
+               Apply thermodynamics, chemical and phase equilibrium and reaction kinetics to engineering processes and
+   CO2                                                                                                                                L3 – Apply
+               compute the quantities.
+   CO3         Apply the principles of electrochemistry to cells, batteries and fuel cells, and explain and control corrosion.        L3 – Apply
+   CO4         Relate the structure of engineering materials and the chemistry of water to their engineering use and treatment.      L4 – Analyse
+   CO5         Select an appropriate spectroscopic or instrumental method for an analytical problem and interpret its output.         L3 – Apply
+
+CO–PO Articulation Matrix
+Correlation: 3 substantial, 2 moderate, 1 slight, – none. Mapped against the eleven Programme Outcomes of the NBA (GAPC v4.0).
+CO \ PO        PO1        PO2         PO3      PO4        PO5        PO6        PO7        PO8        PO9        PO10      PO11
+   CO1           3          3          1         1          1          –          –          –          –          –             1
+   CO2           3          3          2         2          1          –          –          –          –          –             1
+   CO3           3          2          2         2          2          1          2          –          –          –             2
+   CO4           3          2          2         2          2          2          2          –          –          –             2
+   CO5           3          2          1         3          2          –          –          –          –          –             2
+
+
+
+
+                                                                     Page 14 of 43
+                                         Maulana Abul Kalam Azad University of Technology, West Bengal
+                  Detailed Syllabus · First Year (Finalised Structure, 11 POs) · Common to all B.Tech. programmes · Effective A.Y. 2026–27
+
+
+Course Plan — Module-wise Syllabus
+ Module                         Title                                                    Contents                                            Hours
+                                                       The Schrödinger equation and the particle in a box as a model; atomic and
+                                                       molecular orbitals; molecular-orbital theory of diatomic molecules, bond
+      I         Atomic and Molecular Structure         order and magnetic behaviour; π-molecular orbitals of conjugated systems;               8
+                                                       band theory of solids in outline; crystal-field splitting and the colour of
+                                                       transition-metal complexes.
+                                                       The laws of thermodynamics in review; entropy, free energy and the criteria
+                Thermodynamics, Equilibrium and        of spontaneity; chemical potential; chemical and phase equilibrium, the
+      II                                                                                                                                       8
+                Kinetics                               phase rule and simple phase diagrams; chemical kinetics — order,
+                                                       molecularity, the rate law, the Arrhenius equation and catalysis.
+                                                       Electrode potential and the electrochemical series; the Nernst equation;
+                                                       galvanic and concentration cells; conductance; batteries — primary,
+   III          Electrochemistry and Corrosion         secondary and the lithium-ion cell — and fuel cells; corrosion —                        7
+                                                       mechanism, factors, and protection by coatings, cathodic protection and
+                                                       inhibitors.
+                                                       Polymers — addition and condensation polymerisation, thermoplastics and
+                                                       thermosets, elastomers, conducting and biodegradable polymers;
+   IV           Engineering Materials and Water        composites and nanomaterials in outline. Water — hardness and its                       8
+                                                       determination, boiler troubles, softening by lime–soda, zeolite and ion-
+                                                       exchange methods, and municipal treatment.
+                                                       The basis of spectroscopy and the Beer–Lambert law; ultraviolet–visible,
+                                                       infrared and, in outline, nuclear magnetic resonance spectroscopy;
+      V         Instrumental Methods of Analysis                                                                                               5
+                                                       elementary chromatography; the accuracy and precision of a measurement
+                                                       and the reporting of a result with its uncertainty.
+Cross-cutting notes. Module III (corrosion) and Module IV (materials and water) are the points at which the course serves the
+materials, durability and water concerns of the Civil, Mechanical, Electrical and Leather disciplines and connects to Environmental
+Science. The concurrent Chemistry Laboratory (BS-CH191/291) reduces at least one result with its uncertainty.
+
+Text and Reference Books
+  •        P. C. Jain and M. Jain, Engineering Chemistry, Dhanpat Rai.
+  •        P. W. Atkins, Physical Chemistry, Oxford University Press.
+  •        B. R. Puri, L. R. Sharma and M. S. Pathania, Principles of Physical Chemistry, Vishal.
+  •        S. S. Dara and S. S. Umare, A Textbook of Engineering Chemistry, S. Chand.
+  •        Shashi Chawla, A Textbook of Engineering Chemistry, Dhanpat Rai.
+Suggested SWAYAM / NPTEL and Online Resources
+  • NPTEL — Chemistry: Principles and Applications / Engineering Chemistry, 12 weeks.
+  • NPTEL — Electrochemical Energy Systems / Corrosion Engineering, 12 weeks.
+  • Virtual Labs (Ministry of Education) — Physical, Inorganic and Analytical Chemistry laboratories.
+
+
+Question-paper note. At least one Group C question is a numerical problem — a free-energy or equilibrium computation, a
+Nernst potential, a rate or activation-energy calculation, or a hardness determination. Structure-and-reasoning questions require
+explanation from the underlying bonding or thermodynamics.
+
+
+
+
+                                                                       Page 15 of 43
+                                       Maulana Abul Kalam Azad University of Technology, West Bengal
+               Detailed Syllabus · First Year (Finalised Structure, 11 POs) · Common to all B.Tech. programmes · Effective A.Y. 2026–27
+
+
+
+26-ES-EE101 — Basic Electrical and Electronics Engineering
+Course Code                       26-ES-EE101                               Category                       Engineering Science Course
+                                  Basic Electrical and Electronics
+Course Title                                                                L–T–P                          3–1–0
+                                  Engineering
+Credits                           4                                         Contact Hours                  44
+Semester                          First                                     Assessment                     Theory: CA 30 + ESE 70
+
+
+
+Prerequisites
+A four-credit course (3-1-0), the tutorial hour serving the problem-working that a combined electrical-and-electronics paper needs.
+Scoped at about forty-four hours. Assumed:
+   •    Ohm’s and Kirchhoff’s laws and simple resistive circuits (CBSE XII Unit II; WBCHSE).
+   •    Alternating current and the LCR circuit in outline (CBSE XII Unit IV).
+   •    The p–n junction diode and the elements of the transistor and logic gates (CBSE XII Units IX–XI).
+   •    The calculus of Mathematics-I, taken concurrently.
+Course Objectives
+   • To establish the analysis of direct- and alternating-current circuits by the network theorems.
+   • To introduce electrical machines and their engineering use.
+   • To establish the physics and characteristics of the semiconductor devices — diode, transistor, field-effect transistor and
+     operational amplifier.
+   • To ground the student in electrical safety and the Indian wiring practice.
+Course Outcomes
+On completion of the course the student will be able to:
+       CO                                                            Statement                                                            Bloom
+   CO1         Apply electrical safety and wiring practice and analyse direct-current circuits using the network theorems.            L3 – Apply
+   CO2         Analyse single-phase and balanced three-phase alternating-current circuits and compute power and power factor.         L3 – Apply
+                                                                                                                                        L2 –
+   CO3         Explain the construction and characteristics of transformers and rotating machines and their engineering use.
+                                                                                                                                      Understand
+               Explain the physics and characteristics of the semiconductor diode and its applications in rectification and
+   CO4                                                                                                                                L3 – Apply
+               regulation.
+               Calculate the voltage gain of the operational amplifier in the inverting and non-inverting configuration and study
+   CO5                                                                                                                                L3 – Apply
+               its applications.
+
+CO–PO Articulation Matrix
+Correlation: 3 substantial, 2 moderate, 1 slight, – none. Mapped against the eleven Programme Outcomes of the NBA (GAPC v4.0).
+CO \ PO        PO1       PO2          PO3      PO4        PO5         PO6        PO7        PO8      PO9        PO10       PO11
+   CO1           3         3           2         2          2           1         1          1         –          –           1
+   CO2           3         3           2         2          2           –         –          –         –          –           1
+   CO3           3         2           2         1          2           1         1          –         –          –           1
+   CO4           3         3           2         2          2           –         –          –         –          –           2
+   CO5           3         3           3         2          3           –         –          1         –          –           2
+
+
+
+
+                                                                      Page 16 of 43
+                                          Maulana Abul Kalam Azad University of Technology, West Bengal
+                  Detailed Syllabus · First Year (Finalised Structure, 11 POs) · Common to all B.Tech. programmes · Effective A.Y. 2026–27
+
+
+Course Plan — Module-wise Syllabus
+ Module                         Title                                                    Contents                                            Hours
+                                                       Electrical safety — the effect of current on the body; earthing; the residual-
+                Basics of Electrical Wiring and        current device; the Switch-Fuse Unit (SFU), MCB, ELCB and MCCB;
+      I                                                                                                                                        3
+                Safety                                 types of wires and cables; the elements of the Indian wiring practice; types
+                                                       of batteries and their important characteristics.
+                                                       Circuit elements and their voltage–current relations; independent and
+                                                       dependent sources; Kirchhoff’s voltage and current laws; mesh and nodal
+      II        Direct-Current Circuits                analysis; star–delta transformation; superposition, Thevenin, Norton and                9
+                                                       maximum-power-transfer theorems; transient response of RL and RC
+                                                       circuits in outline.
+                                                       Generation of alternating voltage; average and root-mean-square values,
+                                                       form and peak factors; phasor representation; analysis of R, L, C and series
+                                                       and parallel RLC circuits; impedance and admittance; real, reactive and
+   III          Alternating-Current Circuits                                                                                                   8
+                                                       apparent power, power factor and its improvement; series and parallel
+                                                       resonance; balanced three-phase systems, star and delta connection, and
+                                                       three-phase power measurement in outline.
+                                                       Single-phase transformer — construction, principle, equivalent circuit,
+                                                       losses, efficiency and regulation; the auto-transformer in outline. Direct-
+                Transformers and Rotating              current machines — construction, e.m.f. and torque equations, types of
+   IV                                                                                                                                          6
+                Machines                               excitation, characteristics and starting. Introduction to alternating-current
+                                                       motors (three-phase and single-phase), with the stepper motor and the
+                                                       brushless direct-current motor and a note on their use in automation.
+                                                       Energy bands in solids; valence and conduction bands; insulators,
+                                                       semiconductors and conductors; intrinsic and extrinsic semiconductors;
+                                                       current in semiconductors by diffusion and drift; the p–n junction diode
+                Semiconductor Fundamentals and
+      V                                                under forward and reverse bias and its current–voltage characteristic;                  7
+                Diode Applications
+                                                       breakdown — Zener and avalanche; rectifiers — half-wave and full-wave
+                                                       with filters; the Zener diode as a voltage regulator; the light-emitting diode
+                                                       and the photodiode.
+                                                       Bipolar junction transistor — structure and symbol, operation, modes, the
+                                                       CB, CE and CC characteristics and current-gain expressions, the Early
+                                                       effect, and the hybrid (h-parameter) model in outline. Field-effect transistor
+                Transistors and Operational            — the junction FET: circuit, symbol, drain and transfer characteristics, and
+   VI                                                                                                                                         11
+                Amplifiers                             the saturation drain current; the MOSFET — construction, operation and
+                                                       drain characteristics. The operational amplifier — the ideal op-amp, open-
+                                                       loop characteristics and parameters; the inverting, non-inverting, summing
+                                                       and difference amplifier.
+Note on scope and delivery. The course carries four credits as 3-1-0 — three lectures and a tutorial — in recognition that it
+combines two subjects within one paper. The tutorial hour is for the working of circuit and device problems and is not a fourth
+lecture. The safety-and-wiring Module I and the semiconductor and operational-amplifier content of Modules V and VI are the
+parts strengthened at the Board’s instance, so that the electronics half is given its due.
+
+Text and Reference Books
+  •        D. P. Kothari and I. J. Nagrath, Basic Electrical and Electronics Engineering, McGraw-Hill.
+  •        D. C. Kulshreshtha, Basic Electrical Engineering, McGraw-Hill.
+  •        Boylestad and Nashelsky, Electronic Devices and Circuit Theory, Pearson.
+  •        V. K. Mehta and Rohit Mehta, Principles of Electronics, S. Chand.
+  •        Millman, Halkias and Jit, Electronic Devices and Circuits, McGraw-Hill.
+Suggested SWAYAM / NPTEL and Online Resources
+   • NPTEL — Basic Electrical Circuits / Basic Electrical Engineering (IITs), 12 weeks.
+   • NPTEL — Electronic Devices and Circuits, 12 weeks.
+   • NPTEL — Analog Electronic Circuits / Operational Amplifiers, 12 weeks.
+   • Virtual Labs (Ministry of Education) — Basic Electrical and Analog Electronics laboratories.
+Question-paper note. The paper is a problem-and-reasoning paper. At least one Group C question requires network analysis by a
+stated theorem, one requires an op-amp gain calculation (CO5), and one requires interpretation of a device characteristic. Circuit
+diagrams are to be drawn to standard symbols.
+
+
+
+
+                                                                       Page 17 of 43
+                                       Maulana Abul Kalam Azad University of Technology, West Bengal
+               Detailed Syllabus · First Year (Finalised Structure, 11 POs) · Common to all B.Tech. programmes · Effective A.Y. 2026–27
+
+
+
+26-AEC-101 — English for Communication Skills
+Course Code                       26-AEC-101                               Category                        Ability Enhancement Course
+Course Title                      English for Communication Skills         L–T–P                           2–0–0
+Credits                           2                                        Contact Hours                   26
+Semester                          First                                    Assessment                      Theory: CA 30 + ESE 70
+
+
+
+Prerequisites
+A two-credit first-semester course scoped at about twenty-six hours, and lightened for the shorter first-semester window. A first-
+week diagnostic places students in graded groups. Assumed:
+   • The English of the Higher Secondary course (WBCHSE / CBSE / ISC).
+   • No uniform standard is assumed; the diagnostic test is used for placement and not for marks.
+   • The Language Laboratory (AEC-291, Semester II) carries the intensive listening-and-speaking practice.
+Course Objectives
+   •    To strengthen the grammar and vocabulary of technical English.
+   •    To develop reading, comprehension and the conventions of technical writing.
+   •    To build the listening and speaking competence the workplace requires.
+   •    To prepare the student for the communication demands of employability.
+Course Outcomes
+On completion of the course the student will be able to:
+       CO                                                          Statement                                                              Bloom
+   CO1         Apply the grammar and vocabulary of technical English accurately in writing and speech.                                L3 – Apply
+   CO2         Read and comprehend a technical text and summarise it accurately.                                                      L3 – Apply
+   CO3         Write clear technical prose — the paragraph, the letter, the report and the e-mail.                                    L3 – Apply
+   CO4         Listen and speak effectively in professional and group settings.                                                       L3 – Apply
+
+CO–PO Articulation Matrix
+Correlation: 3 substantial, 2 moderate, 1 slight, – none. Mapped against the eleven Programme Outcomes of the NBA (GAPC v4.0).
+CO \ PO        PO1        PO2         PO3      PO4        PO5        PO6          PO7      PO8       PO9        PO10       PO11
+   CO1           1         1           –         –          1          1           1        2          3          –          2
+   CO2           1         1           –         1          1          1           –        1          3          –          2
+   CO3           1         1           1         1          2          1           1        2          3          1          2
+   CO4           1         –           –         –          1          2           1        3          3          –          2
+
+
+
+
+                                                                    Page 18 of 43
+                                         Maulana Abul Kalam Azad University of Technology, West Bengal
+                 Detailed Syllabus · First Year (Finalised Structure, 11 POs) · Common to all B.Tech. programmes · Effective A.Y. 2026–27
+
+
+Course Plan — Module-wise Syllabus
+ Module                        Title                                                    Contents                                            Hours
+                                                      Parts of speech and sentence structure in review; common errors and their
+               The Grammar and Vocabulary of          correction; tense, voice and concord; the vocabulary of technical English
+      I                                                                                                                                       6
+               Technical English                      — word-formation, technical and sub-technical vocabulary, and precision
+                                                      of usage.
+                                                      Reading strategies — skimming, scanning and intensive reading;
+                                                      comprehension of a technical passage; note-making and summarising;
+      II       Reading and Comprehension                                                                                                      6
+                                                      interpreting data presented in a table or figure. (May be carried partly by
+                                                      guided assignment in a short session.)
+                                                      The technical paragraph and its coherence; the formal letter and the e-mail;
+   III         Technical Writing                      the memorandum; the structure of the technical report; the description of a             8
+                                                      process and of an object; the abstract.
+                                                      Listening comprehension; pronunciation and stress in outline; the group
+               Listening, Speaking and
+   IV                                                 discussion and the interview; the presentation; the résumé and the covering             6
+               Employability
+                                                      letter; communication for the workplace.
+Cross-cutting notes. The course is paired with the Language Laboratory (AEC-291) and with Essentials for Professional Skills
+(AEC-281), which carry the practice; this course supplies the frame. It serves PO9 (Communication) directly and is the principal
+first-year vehicle for it.
+
+Text and Reference Books
+  •        Meenakshi Raman and Sangeeta Sharma, Technical Communication, Oxford University Press.
+  •        Board of Editors, English for Engineers and Technologists, Orient BlackSwan.
+  •        F. T. Wood, Remedial English Grammar for Foreign Students, Macmillan.
+  •        Ashraf Rizvi, Effective Technical Communication, McGraw-Hill.
+Suggested SWAYAM / NPTEL and Online Resources
+  • NPTEL — Technical English for Engineers / English Language for Competitive Examinations, 8 / 12 weeks.
+  • NPTEL — Effective Writing / Speaking Effectively, as offered.
+  • SWAYAM — Soft Skills and Communication, as offered.
+
+
+Question-paper note. The paper tests use rather than the naming of rules: grammar is examined through correction and
+transformation, writing through a short composition, and reading through comprehension of an unseen technical passage.
+
+
+
+
+                                                                      Page 19 of 43
+                                   Maulana Abul Kalam Azad University of Technology, West Bengal
+            Detailed Syllabus · First Year (Finalised Structure, 11 POs) · Common to all B.Tech. programmes · Effective A.Y. 2026–27
+
+
+
+
+Part V — Detailed Syllabi: Laboratory and Practical Courses
+The three laboratory and practical courses follow. Each carries its list of experiments or exercises mapped to the Course
+Outcomes, and is assessed under the practical scheme of Part III.
+
+
+
+
+                                                                 Page 20 of 43
+                                        Maulana Abul Kalam Azad University of Technology, West Bengal
+               Detailed Syllabus · First Year (Finalised Structure, 11 POs) · Common to all B.Tech. programmes · Effective A.Y. 2026–27
+
+
+
+26-BS-PH191 — Physics Laboratory
+Course Code                       26-BS-PH191                              Category                        Basic Science Course
+Course Title                      Physics Laboratory                       L–T–P                           0–0–3
+Credits                           1.5                                      Contact Hours                   36
+Semester                          First or Second (by group)               Assessment                      Practical: PCA 40 + ESE 60
+
+
+
+Prerequisites
+Concurrent with Physics and sequenced so the relevant theory precedes the experiment. Assumed: the laboratory safety induction
+(first session); elementary measurement, significant figures and the reporting of a result with its uncertainty.
+   • The laboratory safety and measurement induction, conducted in the first session.
+   • Elementary use of the vernier, screw gauge and travelling microscope (Class XI–XII practical).
+   • The idea of least count, error and the reporting of a result with its uncertainty.
+Course Objectives
+   •    To connect the principles of the Physics course to measurement.
+   •    To develop competence and safe practice in physical measurement.
+   •    To establish the estimation of uncertainty as routine.
+   •    To establish the discipline of the laboratory record.
+Course Outcomes
+On completion of the course the student will be able to:
+       CO                                                          Statement                                                              Bloom
+   CO1         Work safely and take physical measurements to their rated precision using standard instruments.                        L3 – Apply
+   CO2         Determine physical quantities — g, wavelength, refractive index, resistance, and the like — from measured data.        L3 – Apply
+   CO3         Plot and interpret an experimental graph and extract a physical quantity from its slope or intercept.                 L4 – Analyse
+   CO4         Estimate the uncertainty in a measured result and maintain a reproducible laboratory record.                          L4 – Analyse
+
+CO–PO Articulation Matrix
+Correlation: 3 substantial, 2 moderate, 1 slight, – none. Mapped against the eleven Programme Outcomes of the NBA (GAPC v4.0).
+CO \ PO        PO1        PO2       PO3        PO4        PO5        PO6        PO7        PO8       PO9        PO10       PO11
+   CO1           3         2            1        3          2          –         –          2          1          –          2
+   CO2           3         3            2        3          2          –         –          2          1          –          2
+   CO3           3         3            1        3          3          –         –          2          2          –          2
+   CO4           2         2            1        3          2          –         –          3          2          –          2
+
+
+
+
+                                                                    Page 21 of 43
+                                       Maulana Abul Kalam Azad University of Technology, West Bengal
+               Detailed Syllabus · First Year (Finalised Structure, 11 POs) · Common to all B.Tech. programmes · Effective A.Y. 2026–27
+
+
+List of Experiments / Exercises
+  Sl.                                                   Experiment / Exercise                                                              CO
+   1      Determination of the acceleration due to gravity by the bar or Kater’s pendulum.                                             CO1, CO2
+   2      Determination of the spring constant and the acceleration due to gravity by a helical spring.                                CO2, CO3
+   3      Determination of the wavelength of light by Newton’s rings.                                                                  CO2, CO3
+   4      Determination of the wavelength of the spectral lines by a diffraction grating and the spectrometer.                         CO2, CO3
+   5      Determination of the refractive index of the material of a prism by the spectrometer.                                        CO1, CO2
+   6      Determination of an unknown resistance by the Carey Foster bridge.                                                           CO2, CO3
+   7      Study of the characteristics of a p–n junction diode / the variation of a thermistor resistance with temperature.            CO2, CO3
+   8      Determination of the specific resistance of a wire by the metre bridge.                                                      CO2, CO4
+   9      Determination of the numerical aperture of an optical fibre / the wavelength of a laser by a grating.                        CO2, CO3
+  10      Determination of the Planck constant using light-emitting diodes.                                                         CO2, CO3, CO4
+A student is to perform not fewer than eight experiments. Every result is to be reported with its estimated uncertainty; a result reported without one is
+incomplete. At least one experiment is to be recorded and reduced using a spreadsheet or a short script.
+
+Text and Reference Books
+   • C. L. Arora, Practical Physics, S. Chand.
+   • B. L. Worsnop and H. T. Flint, Advanced Practical Physics for Students, Methuen.
+   • J. R. Taylor, An Introduction to Error Analysis, University Science Books — for the uncertainty component.
+Suggested SWAYAM / NPTEL and Online Resources
+   • Virtual Labs (Ministry of Education) — Optics, Mechanics and Electricity & Magnetism laboratories, for pre-laboratory
+     preparation.
+Indicative Assessment Map
+           Component                                                    Coverage                                                  Outcomes
+                                      First cycle — conduct and safe working 10, observation and data 10,
+Practical CA – I (PCA1, 40)                                                                                             CO1, CO2
+                                      computation and result with uncertainty 10, viva 10
+Practical CA – II (PCA2, 40)          Second cycle, assessed on the same rubric                                         CO3, CO4
+End-Semester Practical
+                                      Record, performance and viva-voce before an external examiner                     All COs
+Examination (60)
+
+
+
+
+                                                                     Page 22 of 43
+                                        Maulana Abul Kalam Azad University of Technology, West Bengal
+               Detailed Syllabus · First Year (Finalised Structure, 11 POs) · Common to all B.Tech. programmes · Effective A.Y. 2026–27
+
+
+
+26-BS-CH191 — Chemistry Laboratory
+Course Code                       26-BS-CH191                              Category                        Basic Science Course
+Course Title                      Chemistry Laboratory                     L–T–P                           0–0–3
+Credits                           1.5                                      Contact Hours                   36
+Semester                          First or Second (by group)               Assessment                      Practical: PCA 40 + ESE 60
+
+
+
+Prerequisites
+Concurrent with Chemistry, sequenced so the relevant module precedes the experiment. Assumed: the laboratory safety induction
+(first session); elementary volumetric practice; significant figures and uncertainty.
+   • The laboratory safety induction, in the first session; no reagent is handled without it.
+   • Elementary use of the burette, pipette and volumetric flask (Class XI–XII practical).
+   • The reporting of a result with its unit and uncertainty.
+Course Objectives
+   •    To develop competence and safe practice in quantitative chemical measurement.
+   •    To connect the thermodynamic, kinetic, electrochemical and analytical principles of the theory to observation.
+   •    To introduce instrumental measurement and the estimation of uncertainty as routine.
+   •    To establish the discipline of the laboratory record.
+Course Outcomes
+On completion of the course the student will be able to:
+       CO                                                          Statement                                                              Bloom
+   CO1         Work safely in a chemical laboratory and carry out volumetric determinations to their rated precision.                 L3 – Apply
+               Determine physicochemical quantities — hardness, rate constant, cell potential, viscosity — from measured
+   CO2                                                                                                                                L3 – Apply
+               data.
+   CO3         Operate elementary instruments — pH meter, conductivity meter, colorimeter — and interpret their output.               L3 – Apply
+   CO4         Estimate the uncertainty in a measured result and maintain a reproducible laboratory record.                          L4 – Analyse
+
+CO–PO Articulation Matrix
+Correlation: 3 substantial, 2 moderate, 1 slight, – none. Mapped against the eleven Programme Outcomes of the NBA (GAPC v4.0).
+CO \ PO        PO1       PO2        PO3        PO4        PO5        PO6        PO7        PO8       PO9        PO10       PO11
+   CO1           3         2            1        3          2          1         2          2          1          –          2
+   CO2           3         3            2        3          2          –         1          2          1          –          2
+   CO3           3         2            1        3          3          –         –          2          1          –          2
+   CO4           2         2            1        3          2          –         –          3          2          –          2
+
+
+
+
+                                                                    Page 23 of 43
+                                       Maulana Abul Kalam Azad University of Technology, West Bengal
+               Detailed Syllabus · First Year (Finalised Structure, 11 POs) · Common to all B.Tech. programmes · Effective A.Y. 2026–27
+
+
+List of Experiments / Exercises
+  Sl.                                                     Experiment / Exercise                                                               CO
+          Laboratory safety, the handling of reagents and glassware, measurement, significant figures and uncertainty;
+   1                                                                                                                                      CO1, CO4
+          preparation of a standard solution.
+   2      Determination of the total, permanent and temporary hardness of water by the EDTA method.                                       CO1, CO2
+   3      Estimation of a carbonate–bicarbonate mixture by double-indicator titration.                                                    CO1, CO2
+   4      Determination of iron in a sample by a redox titration (permanganometry or dichromatometry).                                    CO1, CO2
+   5      Determination of the rate constant of the acid-catalysed hydrolysis of an ester.                                                CO2, CO4
+   6      Determination of the strength of an acid by conductometric titration.                                                           CO2, CO3
+   7      Determination of the strength or dissociation constant of a weak acid by pH-metric titration.                                   CO2, CO3
+   8      Verification of the Beer–Lambert law and colorimetric determination of a coloured species.                                      CO2, CO3
+   9      Determination of the viscosity of a liquid and its variation with concentration.                                                   CO2
+  10      Determination of the cell constant and equivalent conductance of a strong electrolyte.                                          CO2, CO3
+  11      Preparation of a simple polymer (phenol–formaldehyde or urea–formaldehyde) or of a metal complex.                                  CO1
+A student is to perform not fewer than eight experiments. At least one experiment per cycle is recorded and reduced using a spreadsheet or short script, and
+every result is reported with its estimated uncertainty.
+
+Text and Reference Books
+   • B. Viswanathan and P. S. Raghavan, Practical Physical Chemistry, Viva Books.
+   • A. I. Vogel, A Textbook of Quantitative Chemical Analysis, Pearson.
+   • Sunita Rattan, Experiments in Applied / Engineering Chemistry, S. K. Kataria.
+Suggested SWAYAM / NPTEL and Online Resources
+   • Virtual Labs (Ministry of Education) — Physical, Analytical and Inorganic Chemistry laboratories.
+Indicative Assessment Map
+           Component                                                      Coverage                                                  Outcomes
+                                       First cycle — conduct and safe working 10, observation and data 10,
+Practical CA – I (PCA1, 40)                                                                                               CO1, CO2
+                                       computation and result with uncertainty 10, viva 10
+Practical CA – II (PCA2, 40)           Second cycle, assessed on the same rubric                                          CO2, CO3, CO4
+End-Semester Practical
+                                       Record, performance and viva-voce before an external examiner                      All COs
+Examination (60)
+
+
+
+
+                                                                      Page 24 of 43
+                                        Maulana Abul Kalam Azad University of Technology, West Bengal
+               Detailed Syllabus · First Year (Finalised Structure, 11 POs) · Common to all B.Tech. programmes · Effective A.Y. 2026–27
+
+
+
+26-ES-EE191 — Basic Electrical and Electronics Engineering Laboratory
+Course Code                       26-ES-EE191                               Category                       Engineering Science Course
+                                  Basic Electrical and Electronics
+Course Title                                                                L–T–P                          0–0–3
+                                  Engineering Laboratory
+Credits                           1.5                                       Contact Hours                  36
+Semester                          First                                     Assessment                     Practical: PCA 40 + ESE 60
+
+
+
+Prerequisites
+Concurrent with Basic Electrical and Electronics Engineering (ES-EE101). Assumed: the electrical-safety induction (first session);
+the use of the multimeter, the cathode-ray oscilloscope and the function generator, taught in the first two sessions.
+   • The electrical-safety induction, in the first session.
+   • The use of the multimeter, oscilloscope, function generator and regulated power supply, taught at the outset.
+   • The circuit and device theory of ES-EE101, taken concurrently.
+Course Objectives
+   •    To verify the network theorems and the behaviour of alternating-current circuits by measurement.
+   •    To study the characteristics of electrical machines.
+   •    To obtain and interpret the characteristics of the semiconductor devices and to test rectifier and regulator circuits.
+   •    To study the operational amplifier in its basic configurations.
+Course Outcomes
+On completion of the course the student will be able to:
+       CO                                                            Statement                                                            Bloom
+   CO1         Use electrical measuring instruments safely and verify the network theorems by measurement.                            L3 – Apply
+   CO2         Measure the parameters of an alternating-current circuit and study resonance and power-factor improvement.             L3 – Apply
+               Obtain and interpret the characteristics of the diode, the Zener diode, the bipolar junction transistor and the
+   CO3                                                                                                                               L4 – Analyse
+               JFET, and test rectifier and regulator circuits.
+   CO4         Study the characteristics of an electrical machine or transformer.                                                     L3 – Apply
+   CO5         Calculate the voltage gain of the operational amplifier in the inverting and non-inverting configuration.              L3 – Apply
+
+CO–PO Articulation Matrix
+Correlation: 3 substantial, 2 moderate, 1 slight, – none. Mapped against the eleven Programme Outcomes of the NBA (GAPC v4.0).
+CO \ PO        PO1        PO2       PO3        PO4        PO5         PO6        PO7        PO8      PO9        PO10       PO11
+   CO1           3         3            2        3          3           1           1        2         1          –          2
+   CO2           3         3            2        3          3           –           –        2         1          –          2
+   CO3           3         3            2        3          3           –           –        2         1          –          2
+   CO4           3         2            2        3          3           1           1        2         1          –          2
+   CO5           3         3            3        3          3           –           –        2         1          –          2
+
+
+
+
+                                                                      Page 25 of 43
+                                       Maulana Abul Kalam Azad University of Technology, West Bengal
+               Detailed Syllabus · First Year (Finalised Structure, 11 POs) · Common to all B.Tech. programmes · Effective A.Y. 2026–27
+
+
+List of Experiments / Exercises
+  Sl.                                                   Experiment / Exercise                                                              CO
+          Familiarisation with electrical safety, the multimeter, the oscilloscope, the function generator and the regulated
+   1                                                                                                                                      CO1
+          power supply.
+   2      Verification of Kirchhoff’s voltage and current laws.                                                                           CO1
+   3      Verification of the superposition theorem.                                                                                      CO1
+   4      Verification of the Thevenin and Norton theorems / the maximum-power-transfer theorem.                                          CO1
+   5      Study of the series RLC circuit — resonance, the resonant frequency and the quality factor.                                     CO2
+          Measurement of power and power factor in a single-phase circuit and improvement of the power factor by a
+   6                                                                                                                                      CO2
+          capacitor.
+   7      Open-circuit and short-circuit test on a single-phase transformer / study of a DC machine.                                      CO4
+   8      Study of the characteristics of the p–n junction diode and the Zener diode.                                                     CO3
+   9      Study of the half-wave and full-wave rectifier with and without a filter, and the Zener voltage regulator.                      CO3
+  10      Study of the input and output characteristics of a bipolar junction transistor in the CE configuration.                         CO3
+  11      Study of the JFET characteristics.                                                                                              CO3
+  12      Study of the inverting and non-inverting mode of the operational amplifier.                                                     CO5
+A student is to perform not fewer than ten experiments covering all five outcomes, including at least the diode/transistor/JFET characteristics (CO3) and
+the operational-amplifier experiment (CO5). Every observation is to be recorded against the theory and the measured value compared with the expected.
+
+Text and Reference Books
+   • Laboratory manual, Basic Electrical and Electronics Engineering, MAKAUT (to be issued).
+   • D. P. Kothari and I. J. Nagrath, Basic Electrical and Electronics Engineering, McGraw-Hill.
+   • Boylestad and Nashelsky, Electronic Devices and Circuit Theory, Pearson.
+Suggested SWAYAM / NPTEL and Online Resources
+   • Virtual Labs (Ministry of Education) — Basic Electrical, Electrical Machines and Analog Electronics laboratories.
+Indicative Assessment Map
+           Component                                                    Coverage                                                  Outcomes
+                                      First cycle — electrical circuits, AC and machines: conduct 10, observation
+Practical CA – I (PCA1, 40)                                                                                             CO1, CO2, CO4
+                                      and data 10, result and interpretation 10, viva 10
+                                      Second cycle — semiconductor devices and the operational amplifier, on
+Practical CA – II (PCA2, 40)                                                                                            CO3, CO5
+                                      the same rubric
+End-Semester Practical
+                                      Record, performance and viva-voce before an external examiner                     All COs
+Examination (60)
+
+
+
+
+                                                                     Page 26 of 43
+                                       Maulana Abul Kalam Azad University of Technology, West Bengal
+               Detailed Syllabus · First Year (Finalised Structure, 11 POs) · Common to all B.Tech. programmes · Effective A.Y. 2026–27
+
+
+
+26-ES-ME191— Engineering Graphics and Design
+Course Code                       26-ES-ME191                              Category                        Engineering Science Course
+Course Title                      Engineering Graphics and Design          L–T–P                           0–0–4
+Credits                           2                                        Contact Hours                   48
+Semester                          First or Second (by group)               Assessment                      Practical: PCA 40 + ESE 60
+
+
+
+Prerequisites
+A two-credit graphics course of about forty-eight hours, rotating with Workshop Practice across the two semesters by group. It
+assumes only school geometry and begins from the drawing standard. Assumed:
+   • Plane and solid geometry and coordinate geometry in three dimensions (WBBSE / CBSE / ICSE; CBSE XII Unit IV).
+   • No prior drawing experience; the course begins from the standard (BIS SP 46) and the instruments.
+   • The safety and housekeeping induction of the drawing hall / CAD laboratory.
+Course Objectives
+   •    To establish engineering drawing as the graphical language of engineering to the Bureau of Indian Standards code.
+   •    To develop competence in orthographic and isometric projection.
+   •    To introduce sectioning, dimensioning and the drawing of simple machine and civil elements.
+   •    To introduce computer-aided drafting as the modern medium.
+Course Outcomes
+On completion of the course the student will be able to:
+       CO                                                          Statement                                                              Bloom
+   CO1         Apply the conventions of engineering drawing and construct the standard geometrical and engineering curves.            L3 – Apply
+   CO2         Draw the orthographic projection of a point, line, plane and solid.                                                    L3 – Apply
+   CO3         Construct isometric and sectional views and dimension a drawing to the standard.                                      L4 – Analyse
+   CO4         Produce a drawing using a computer-aided drafting package.                                                             L3 – Apply
+
+CO–PO Articulation Matrix
+Correlation: 3 substantial, 2 moderate, 1 slight, – none. Mapped against the eleven Programme Outcomes of the NBA (GAPC v4.0).
+CO \ PO        PO1       PO2          PO3      PO4        PO5        PO6        PO7        PO8       PO9        PO10       PO11
+   CO1           3         2           3         1          3          –         –          1          2          –          2
+   CO2           3         2           3         1          2          –         –          1          2          –          2
+   CO3           3         3           3         1          3          –         –          1          2          –          2
+   CO4           2         2           3         1          3          –         –          2          2          –          2
+
+
+
+
+                                                                    Page 27 of 43
+                                      Maulana Abul Kalam Azad University of Technology, West Bengal
+               Detailed Syllabus · First Year (Finalised Structure, 11 POs) · Common to all B.Tech. programmes · Effective A.Y. 2026–27
+
+
+List of Experiments / Exercises
+  Sl.                                                  Experiment / Exercise                                                              CO
+          Introduction to engineering drawing — instruments, the BIS code (SP 46), lettering, lines and dimensioning;
+   1                                                                                                                                      CO1
+          scales.
+   2      Conic sections — the ellipse, parabola and hyperbola; the cycloid and the involute.                                             CO1
+   3      Orthographic projection — projection of points and of straight lines.                                                           CO2
+   4      Projection of planes.                                                                                                           CO2
+   5      Projection of solids — prism, pyramid, cylinder and cone in simple position.                                                    CO2
+   6      Section of solids and the true shape of the section.                                                                            CO3
+   7      Development of surfaces of simple solids.                                                                                       CO3
+   8      Isometric projection and isometric view of simple solids and their combinations.                                                CO3
+   9      Conversion of a pictorial view to orthographic views and vice versa.                                                            CO3
+  10      Introduction to a CAD package — the drawing environment, drawing and editing commands.                                          CO4
+  11      Two-dimensional drawing of a simple engineering component in CAD, with dimensioning.                                            CO4
+  12      Introduction to three-dimensional modelling of a simple part in CAD.                                                            CO4
+The plates are drawn on the board for the projection modules and in the CAD laboratory for the last three. A student is to complete not fewer than ten
+plates. The end-semester examination has a board component and a CAD component.
+
+Text and Reference Books
+   •    N. D. Bhatt, Engineering Drawing, Charotar Publishing.
+   •    K. Venugopal, Engineering Drawing and Graphics, New Age.
+   •    Bureau of Indian Standards, SP 46 — Engineering Drawing Practice.
+   •    Sham Tickoo, AutoCAD / Fusion 360 for Engineers (as adopted), CADCIM.
+Suggested SWAYAM / NPTEL and Online Resources
+   • NPTEL — Engineering Drawing and Computer Graphics (IITs), 12 weeks.
+   • NPTEL — Engineering Graphics, as offered.
+   • SWAYAM — CAD-based courses, as approved.
+Indicative Assessment Map
+           Component                                                   Coverage                                                Outcomes
+                                      First cycle — geometrical constructions and orthographic projection: plates
+Practical CA – I (PCA1, 40)                                                                                       CO1, CO2
+                                      and board work
+Practical CA – II (PCA2, 40)          Second cycle — isometric, sections, development and CAD                        CO3, CO4
+End-Semester Practical
+                                      Record, performance and viva-voce before an external examiner                  All COs
+Examination (60)
+
+
+
+
+                                                                    Page 28 of 43
+                                       Maulana Abul Kalam Azad University of Technology, West Bengal
+               Detailed Syllabus · First Year (Finalised Structure, 11 POs) · Common to all B.Tech. programmes · Effective A.Y. 2026–27
+
+
+
+26-ES-ME192 — Workshop Practice
+Course Code                       26-ES-ME192                              Category                        Engineering Science Course
+Course Title                      Workshop Practice                        L–T–P                           0–0–4
+Credits                           2                                        Contact Hours                   48
+Semester                          First or Second (by group)               Assessment                      Practical: PCA 40 + ESE 60
+
+
+
+Prerequisites
+A two-credit workshop of about forty-eight hours, rotating with Engineering Graphics across the two semesters by group. It
+assumes no prior experience and begins from the safety induction. Assumed:
+   • The workshop safety induction, in the first session; no machine is operated without it.
+   • No prior workshop experience.
+   • General science of Class X for the properties of the common materials.
+Course Objectives
+   •    To give hands-on experience of the basic manufacturing and fabrication processes.
+   •    To develop safe practice and the correct use of hand tools and machines.
+   •    To connect the process to the material and to the product.
+   •    To introduce measurement and the reading of a job against a drawing.
+Course Outcomes
+On completion of the course the student will be able to:
+       CO                                                          Statement                                                              Bloom
+   CO1         Work safely in the workshop and select the correct tool and process for a job.                                         L3 – Apply
+   CO2         Make a job to a given drawing in fitting, carpentry and sheet metal.                                                   L3 – Apply
+   CO3         Perform the elementary welding, machining and casting / smithy operations.                                             L3 – Apply
+   CO4         Measure a job and compare it with the specification on the drawing.                                                   L4 – Analyse
+
+CO–PO Articulation Matrix
+Correlation: 3 substantial, 2 moderate, 1 slight, – none. Mapped against the eleven Programme Outcomes of the NBA (GAPC v4.0).
+CO \ PO        PO1       PO2          PO3      PO4        PO5        PO6        PO7        PO8       PO9        PO10       PO11
+   CO1           3         2           2         1          2          1         1          2          1          –          2
+   CO2           3         2           3         1          2          –         –          2          1          –          2
+   CO3           3         2           2         1          2          1         1          2          1          –          2
+   CO4           2         3           2         2          2          –         –          2          1          –          2
+
+
+
+
+                                                                    Page 29 of 43
+                                        Maulana Abul Kalam Azad University of Technology, West Bengal
+                Detailed Syllabus · First Year (Finalised Structure, 11 POs) · Common to all B.Tech. programmes · Effective A.Y. 2026–27
+
+
+List of Experiments / Exercises
+  Sl.                                                      Experiment / Exercise                                                                  CO
+   1      Workshop safety, the layout of the shops, and the common engineering materials and their uses.                                         CO1
+   2       Fitting — marking, filing, sawing, drilling and tapping to make a job to a drawing.                                                CO2, CO4
+   3      Carpentry — planing, marking and making a simple joint (lap or mortise-and-tenon).                                                  CO2, CO4
+   4       Sheet-metal work — development, cutting, bending and making a simple article.                                                      CO2, CO4
+   5      Welding — arc and gas welding; making a simple butt or lap joint.                                                                      CO3
+   6       Machining — introduction to the lathe; plain and step turning of a job.                                                            CO3, CO4
+   7      Foundry / smithy — mould-making, or the forging of a simple shape.                                                                     CO3
+   8       Introduction to modern manufacturing — a demonstration of 3D printing / CNC.                                                       CO1, CO3
+A student is to complete a job in each of the fitting, carpentry, sheet-metal and welding sections and at least one of the machining, foundry or smithy sections.
+Each job is measured against its drawing (CO4).
+
+Text and Reference Books
+   •    Hajra Choudhury, Elements of Workshop Technology, Vol. I, Media Promoters.
+   •    B. S. Raghuwanshi, A Course in Workshop Technology, Dhanpat Rai.
+   •    W. A. J. Chapman, Workshop Technology, CBS.
+   •    Workshop practice manual, MAKAUT (to be issued).
+Suggested SWAYAM / NPTEL and Online Resources
+   • NPTEL — Manufacturing Process Technology / Introduction to Manufacturing, 8 / 12 weeks.
+   • Virtual Labs (Ministry of Education) — Workshop and Manufacturing laboratories.
+Indicative Assessment Map
+           Component                                                        Coverage                                                   Outcomes
+                                        First cycle — fitting, carpentry and sheet metal: jobs, finish and
+Practical CA – I (PCA1, 40)                                                                                                  CO1, CO2, CO4
+                                        dimensional accuracy
+Practical CA – II (PCA2, 40)            Second cycle — welding, machining and foundry / smithy                               CO3, CO4
+End-Semester Practical
+                                        Record, performance and viva-voce before an external examiner                        All COs
+Examination (60)
+
+
+
+
+                                                                        Page 30 of 43
+                                     Maulana Abul Kalam Azad University of Technology, West Bengal
+              Detailed Syllabus · First Year (Finalised Structure, 11 POs) · Common to all B.Tech. programmes · Effective A.Y. 2026–27
+
+
+
+
+Part VI — Detailed Syllabi: Sessional and Non-Credit Mandatory
+Courses
+The sessional courses (NCC / NSS / Yoga and Sports, and the Skill Enhancement Course) and the two mandatory non-
+credit courses (the Indian Knowledge System and the Indian Constitution) follow.
+
+
+
+
+A. What a sessional course is, and which courses this document
+covers
+A sessional course is assessed wholly by internal, continuous evaluation across the semester, against published rubrics, rather
+than by a single end-of-semester written theory paper. In the first-year structure the courses below are assessed on a sessional
+or continuous basis, and are covered here. Marks are out of 100 unless the course is non-credit, in which case it is graded
+Satisfactory or Unsatisfactory.
+       Code                         Course                     Credits / L-T-P                           Assessment basis
+                                                                                     Pure sessional — 100 marks, wholly internal continuous
+26-VAC-181             NCC / NSS / Yoga and Sports                2 (0-0-4)
+                                                                                     evaluation
+                       Skill Enhancement Course —                                    Sessional / MOOC — 100 marks; MOOC score + applied
+26-SEC-181                                                        1 (0-0-2)
+                       MOOCs / Skills                                                task + reflection, or institutional skill assessment
+26-MC-182              Indian Knowledge System                Non-credit (2-0-0)     Sessional, non-credit — graded Satisfactory / Unsatisfactory
+26-MC-181              Indian Constitution                    Non-credit (2-0-0)     Sessional, non-credit — graded Satisfactory / Unsatisfactory
+
+
+
+
+B. General principles governing every sessional assessment
+              Principle                                                               What it means
+                                          Assessment is distributed across the whole semester in at least two cycles; no sessional course is settled
+Continuous, not terminal
+                                          by a single end-point exercise.
+                                          Every qualitative component is marked against a written rubric (the Rubric Bank at the end of this
+Rubric published in advance
+                                          document) given to the student before the task is set.
+                                          The subject teacher or stream in-charge assesses; a sessional committee of the department moderates.
+Assessor and moderation                   An external examiner is associated with the final evaluation of every credit-bearing sessional course,
+                                          but not the non-credit courses.
+                                          Attendance of not less than 75% is a necessary but not sufficient condition of a pass; the student must
+Minimum conditions
+                                          also secure at least 40% of the sessional marks, or, for a non-credit course, a Satisfactory grade.
+                                          Course-Outcome attainment is computed as in Part I of the syllabus — 80% from the direct marks
+Outcome attainment
+                                          mapped to each outcome and 20% from an outcome-based student feedback instrument.
+                                          Attendance registers, rubric sheets, log books, artefacts, certificates and the assessment sheet are
+Records for NBA / NAAC                    retained for not fewer than three assessment years, as the NBA continuous-improvement criterion
+                                          requires.
+                                          The scheme, the components and the rubrics are uniform across every affiliated college; a college may
+Uniformity across colleges
+                                          not vary the marks distribution.
+
+
+
+
+                                                                   Page 31 of 43
+                                       Maulana Abul Kalam Azad University of Technology, West Bengal
+               Detailed Syllabus · First Year (Finalised Structure, 11 POs) · Common to all B.Tech. programmes · Effective A.Y. 2026–27
+
+
+
+26-VAC-181 — NCC / NSS / Yoga and Sports
+Course Code                       26-VAC-181                                Category                            Value-Added Course
+Course Title                      NCC / NSS / Yoga and Sports               L–T–P                               0–0–4
+Credits                           2                                         Contact Hours                       52
+                                                                                                                Sessional: wholly internal continuous
+Semester                          First                                     Assessment
+                                                                                                                evaluation (100)
+
+
+
+Prerequisites
+A two-credit activity-based value-added course. The student chooses one stream — the National Cadet Corps, the National Service
+Scheme, or Yoga and Sports — and is assessed on participation and a record of activity. Assumed: none beyond the medical fitness
+the activity requires.
+   • No academic prerequisite.
+   • A declaration of medical fitness for the physical activity of the chosen stream.
+   • Enrolment in one stream at the start of the semester.
+Course Objectives
+   •    To develop physical fitness, discipline and the habit of regular activity.
+   •    To develop service, citizenship and community engagement.
+   •    To develop teamwork, leadership and resilience.
+   •    To contribute to the holistic development the National Education Policy seeks.
+Course Outcomes
+On completion of the course the student will be able to:
+       CO                                                           Statement                                                                Bloom
+   CO1         Participate regularly and safely in the physical or service activity of the chosen stream.                                  L3 – Apply
+   CO2         Demonstrate discipline, teamwork and responsibility in the activity.                                                        L3 – Apply
+   CO3         Reflect on the value of service, fitness or citizenship through a record of activity.                                       L4 – Analyse
+
+
+CO–PO Articulation Matrix
+Correlation: 3 substantial, 2 moderate, 1 slight, – none. Mapped against the eleven Programme Outcomes of the NBA (GAPC v4.0).
+CO \ PO        PO1        PO2         PO3       PO4        PO5        PO6        PO7        PO8        PO9           PO10      PO11
+   CO1           1          –          –          –          –          2          2          3             2          1          2
+   CO2           –          –          –          –          –          2          2          3             2          1          2
+   CO3           1          –          –          –          –          3          2          2             2          1          3
+
+
+
+
+                                                                      Page 32 of 43
+                                       Maulana Abul Kalam Azad University of Technology, West Bengal
+               Detailed Syllabus · First Year (Finalised Structure, 11 POs) · Common to all B.Tech. programmes · Effective A.Y. 2026–27
+
+
+List of Experiments / Exercises
+  Sl.                                                   Experiment / Exercise                                                              CO
+          NCC stream — drill, discipline, national-security awareness, and camp / social-service activity, per the NCC
+   1                                                                                                                                   CO1, CO2
+          syllabus.
+   2      NSS stream — orientation, regular activity, and a special camp of community service, per the NSS framework.                  CO1, CO3
+          Yoga and Sports stream — yoga practice (āsana, prāṇāyāma) and its documented basis, and participation in a
+   3                                                                                                                                   CO1, CO2
+          chosen sport.
+   4      A record / log of activity across the semester, and a short reflective report.                                                  CO3
+Each student follows one stream for the whole semester. Assessment is wholly internal and continuous — attendance and regularity, participation and
+conduct, camp or event participation, and the activity record and reflective report. A minimum attendance and participation is a necessary condition of a
+pass.
+
+Text and Reference Books
+   • NCC Cadet Handbook, Directorate General of NCC (for the NCC stream).
+   • National Service Scheme Manual, Ministry of Youth Affairs and Sports (for the NSS stream).
+   • A textbook of Yoga and the Common Yoga Protocol, Ministry of AYUSH (for the Yoga stream).
+Suggested SWAYAM / NPTEL and Online Resources
+   • SWAYAM / NPTEL — Science of Yoga / Yoga and Wellness, as offered.
+   • Fit India and MY Bharat resources, for activity and reporting.
+
+
+
+
+                                                                     Page 33 of 43
+                                           Maulana Abul Kalam Azad University of Technology, West Bengal
+                   Detailed Syllabus · First Year (Finalised Structure, 11 POs) · Common to all B.Tech. programmes · Effective A.Y. 2026–27
+
+
+
+
+26-VAC-181 — NCC / NSS / Yoga and Sports (2 credits, 0-0-4,
+Semester I)
+A pure sessional course of 100 marks, wholly internal and continuous. The student follows one stream for the whole
+semester; the components are the same across the three streams, the stream-specific activity differing only in kind. An
+external examiner is associated with the final evaluation.
+Course Outcomes assessed
+          CO                                                                        Statement
+          CO1          Participate regularly and safely in the physical or service activity of the chosen stream.
+          CO2          Demonstrate discipline, teamwork and responsibility in the activity.
+          CO3          Reflect on the value of service, fitness or citizenship through a record of activity.
+
+Assessment components and marks
+  Sl.                       Component                       Marks          Weight                  How it is assessed (rubric / evidence)
+                                                                                        From the attendance register across the semester; 75%
+      1        Attendance and regularity                       20            20%
+                                                                                        attendance is the qualifying floor, marks scaled above it. (CO1)
+                                                                                        Continuous observation of engagement, discipline and
+      2        Participation and conduct                       20            20%
+                                                                                        responsibility, on the four-band rubric. (CO2)
+                                                                                        Stream-specific: NCC — drill and turnout; NSS — service-
+      3        Activity / skill performance                    30            30%        activity performance; Yoga & Sports — āsana / prāṇāyāma
+                                                                                        practice and sport skill, on the rubric. (CO1, CO2)
+                                                                                        NCC camp / NSS special camp / a sports meet or yoga
+      4        Camp / event / field participation              15            15%        demonstration, evidenced by a certificate or supervisor report.
+                                                                                        (CO1)
+                                                                                        A maintained log of activity and a short reflective report, on the
+      5        Activity log and reflective report              15            15%
+                                                                                        reflection rubric. (CO3)
+               Total                                          100           100%
+
+Minimum requirements to pass
+  •       Attendance not less than 75% (a necessary condition).
+  •       At least 40% in the aggregate (40 of 100).
+  •       Participation in at least one camp, event or field activity of the chosen stream.
+  •       Submission of the activity log and reflective report.
+Assessor, moderation and records
+   Assessed and moderated by                                                       Evidence retained (NBA / NAAC)
+The NCC Associate NCC Officer, the
+NSS Programme Officer, or the
+Physical Education / Yoga instructor            Attendance register; participation and conduct observation sheet; activity / skill rubric sheet; camp or
+as the stream in-charge, internally;            event certificate or supervisor report; the activity log; the reflective report; and the consolidated
+moderated by the departmental                   assessment sheet.
+sessional committee; external examiner
+associated with the final evaluation.
+
+
+
+
+                                                                          Page 34 of 43
+                                       Maulana Abul Kalam Azad University of Technology, West Bengal
+               Detailed Syllabus · First Year (Finalised Structure, 11 POs) · Common to all B.Tech. programmes · Effective A.Y. 2026–27
+
+
+
+26-SEC-181 (0-0-2, 1)— Skill Enhancement Course — MOOCs / Skills
+Course Code                       26-SEC-181 (0-0-2, 1)                       Category                     Skill Enhancement Course
+                                  Skill Enhancement Course —
+Course Title                                                                  L–T–P                        See note
+                                  MOOCs / Skills
+Credits                           1                                           Contact Hours                As per the credit of the chosen course
+                                                                                                           Sessional: as per the mode of the chosen
+Semester                          First and Second                            Assessment
+                                                                                                           course
+
+
+
+Prerequisites
+A skill course taken from a specified, published basket — through SWAYAM Plus, Future Skills Prime, an approved MOOC, or a
+practical / hands-on / soft-skill course offered by the institution or University. SEC-181 in Semester I carries one credit; SEC-282
+in Semester II carries two credits. The Department publishes the basket, with the outcomes, mode, effort, assessment and fallback
+of each entry, before registration each session; the student chooses from the basket, not from the whole of a platform.
+   • The prerequisite of the specific course chosen, as stated in the published basket.
+   • Registration on the platform, and mentor allocation by the Department.
+   • For a credit-bearing MOOC, the proctored examination the platform requires.
+Course Objectives
+   • To bring an employable practical skill to the student from the first year.
+   • To place at least part of the first year on a national digital-learning platform, on the University’s early-mover credit-
+     transfer policy.
+   • To let the student begin to shape the degree towards an interest or a specialisation.
+   • To do so under a specified and quality-assured basket rather than an open choice.
+Course Outcomes
+On completion of the course the student will be able to:
+    CO                                                                 Statement                                                          Bloom
+   CO1         Complete an approved skill or MOOC course and demonstrate the skill it certifies.                                      L3 – Apply
+   CO2         Apply the skill to a small task, problem or artefact.                                                                  L3 – Apply
+   CO3         Reflect on the learning and relate it to the programme and to employability.                                           L4 – Analyse
+
+CO–PO Articulation Matrix
+Correlation: 3 substantial, 2 moderate, 1 slight, – none. Mapped against the eleven Programme Outcomes of the NBA (GAPC v4.0).
+CO \ PO        PO1        PO2         PO3       PO4        PO5          PO6        PO7        PO8    PO9       PO10        PO11
+   CO1           2          1          1          1          3            –         –          1       1          –          3
+   CO2           2          2          2          1          3            –         –          1       1          –          3
+   CO3           1          1          1          1          2            1         1          1       1          –          3
+
+
+
+
+                                                                        Page 35 of 43
+                                       Maulana Abul Kalam Azad University of Technology, West Bengal
+               Detailed Syllabus · First Year (Finalised Structure, 11 POs) · Common to all B.Tech. programmes · Effective A.Y. 2026–27
+
+
+List of Experiments / Exercises
+  Sl.                                                    Experiment / Exercise                                                               CO
+          An indicative basket — digital productivity and office tools; an introduction to Python; computer-aided drafting;
+   1                                                                                                                                        CO1
+          an introduction to the Internet of Things; a communication, entrepreneurship or financial-literacy skill.
+   2      Completion of the chosen course with its certificate or the institutional assessment.                                             CO1
+   3      A small applied task, artefact or portfolio demonstrating the skill.                                                              CO2
+   4      A short reflective note relating the skill to the programme.                                                                      CO3
+The credit is awarded on completion of the chosen course and the associated applied task, verified by the mentor. For a SWAYAM course the platform’s
+proctored score is used; for an institutional course the internal assessment is used. The specified basket, with outcomes and a named fallback against each
+entry, is a matter for the Board (Part X) and is to be published before registration.
+
+Text and Reference Books
+   • As prescribed by the specific course chosen from the published basket.
+Suggested SWAYAM / NPTEL and Online Resources
+   • SWAYAM Plus and SWAYAM — the approved credit-bearing courses of the published basket.
+   • Future Skills Prime (NASSCOM – MeitY) — approved digital-skill courses.
+   • NPTEL — short (4 / 8-week) skill courses aligned to the basket, as approved.
+
+
+
+
+                                                                      Page 36 of 43
+                                         Maulana Abul Kalam Azad University of Technology, West Bengal
+                 Detailed Syllabus · First Year (Finalised Structure, 11 POs) · Common to all B.Tech. programmes · Effective A.Y. 2026–27
+
+
+
+
+26-SEC-181 (1 cr, 0-0-2, Sem I) — Skill Enhancement Course (MOOCs /
+Skills)
+A sessional course taken from the specified, published basket, in one of two modes — an approved SWAYAM / NPTEL
+MOOC, or an institutional skill course. It carries 100 marks in either mode. SEC-181 is the shorter, one-credit course and
+SEC-282 the fuller, two-credit course. The department mentor verifies completion; for a MOOC the platform’s proctored
+score is authoritative for its part.
+Course Outcomes assessed
+        CO                                                                          Statement
+       CO1           Complete an approved skill or MOOC course and demonstrate the skill it certifies.
+       CO2           Apply the skill to a small task, problem or artefact.
+       CO3           Reflect on the learning and relate it to the programme and to employability.
+
+Assessment components and marks
+  Sl.                     Component                       Marks          Weight                    How it is assessed (rubric / evidence)
+                                                                                        MOOC mode: the platform’s proctored final score, scaled to 60.
+             Course completion and proctored
+   1                                                        60               60%        Institutional mode: a continuous skill assessment (40) and a skill-
+             score
+                                                                                        demonstration test (20). (CO1)
+                                                                                        A task, artefact or mini-project applying the skill, verified by the
+   2         Applied task / artefact                        25               25%
+                                                                                        mentor against a rubric. (CO2)
+                                                                                        A short note relating the skill to the programme and to
+   3         Reflective note                                15               15%
+                                                                                        employability, on the reflection rubric. (CO3)
+             Total                                          100              100%
+
+The two delivery modes at a glance
+                 Mode                            Component 1 (60)                      Comp. 2 (25)          Comp. 3 (15)             Best suited to
+                                                                                                                                 A college without the
+MOOC (SWAYAM / NPTEL /                    Proctored platform score, scaled to
+                                                                              Applied task                 Reflection            faculty to teach the skill in
+Future Skills Prime)                      60
+                                                                                                                                 house
+                                          Continuous assessment 40 +                                                             A skill the college can
+Institutional skill course                                                          Applied task           Reflection
+                                          demonstration test 20                                                                  deliver and assess directly
+
+Minimum requirements to pass
+  • MOOC mode: the platform completion certificate with a passing proctored score. Institutional mode: at least 40% in
+    the skill assessment.
+  • Mentor verification of the applied task is mandatory in both modes.
+  • At least 40% in the aggregate (40 of 100).
+  • The chosen course must be from the basket published by the department before registration.
+Assessor, moderation and records
+   Assessed and moderated by                                                        Evidence retained (NBA / NAAC)
+The department-allocated mentor,
+internally; moderated by the sessional
+committee. For a MOOC the                     The published basket for the session; the platform certificate and score report (MOOC mode) or the
+SWAYAM / NPTEL proctored score                skill-assessment sheet (institutional mode); the applied task / artefact; the reflective note; the mentor
+is used directly for component 1.             verification; and the consolidated assessment sheet.
+External examiner associated with the
+final evaluation.
+
+
+
+
+                                                                       Page 37 of 43
+                                        Maulana Abul Kalam Azad University of Technology, West Bengal
+               Detailed Syllabus · First Year (Finalised Structure, 11 POs) · Common to all B.Tech. programmes · Effective A.Y. 2026–27
+
+
+
+26-MC-181— Indian Constitution
+Course Code                       26-MC-181                                Category                          Mandatory Course (Non-Credit)
+Course Title                      Indian Constitution                      L–T–P                             2–0–0
+Credits                           Nil                                      Contact Hours                     24
+Semester                          First or Second (by group)               Assessment                        Non-credit; Satisfactory / Unsatisfactory
+
+
+
+Prerequisites
+A mandatory non-credit course, paired with the Indian Knowledge System across the two semesters and rotated by group. It is self-
+contained and assumes only the civics of Class X.
+   • No prerequisite beyond the civics and social science of Class X.
+   • No prior study of law is assumed.
+   • The course is descriptive and civic in purpose, not a course in legal practice.
+Course Objectives
+   •    To acquaint the student with the making, structure and principles of the Constitution of India.
+   •    To establish the fundamental rights and duties and the directive principles.
+   •    To outline the structure of the Union, the States and the local bodies.
+   •    To develop the constitutional and civic awareness the graduate engineer needs.
+Course Outcomes
+On completion of the course the student will be able to:
+       CO                                                          Statement                                                              Bloom
+                                                                                                                                          L2 –
+   CO1         Describe the making, the Preamble, and the basic structure of the Constitution of India.
+                                                                                                                                        Understand
+                                                                                                                                          L2 –
+   CO2         Explain the fundamental rights and duties and the directive principles of State policy.
+                                                                                                                                        Understand
+                                                                                                                                          L2 –
+   CO3         Outline the structure and functioning of the Union, the State and the local government.
+                                                                                                                                        Understand
+
+CO–PO Articulation Matrix
+Correlation: 3 substantial, 2 moderate, 1 slight, – none. Mapped against the eleven Programme Outcomes of the NBA (GAPC v4.0).
+CO \ PO        PO1        PO2       PO3        PO4        PO5        PO6        PO7        PO8       PO9          PO10      PO11
+   CO1           –         –            –        –          –          3         3          1            1          –          1
+   CO2           –         –            –        –          –          3         3          1            1          –          1
+   CO3           1         –            –        –          –          3         2          1            1          –          2
+
+
+
+
+                                                                    Page 38 of 43
+                                                Maulana Abul Kalam Azad University of Technology, West Bengal
+                    Detailed Syllabus · First Year (Finalised Structure, 11 POs) · Common to all B.Tech. programmes · Effective A.Y. 2026–27
+
+
+Course Plan — Module-wise Syllabus
+ Module                              Title                                                                  Contents                                                       Hours
+                                                                  The historical background and the Constituent Assembly; the Preamble
+                  The Making and Framework of the
+        I                                                         and its ideals; the salient features of the Constitution; the idea of the basic                              6
+                  Constitution
+                                                                  structure.
+                  Fundamental Rights, Duties and                  The fundamental rights and the writs; the fundamental duties; the directive
+        II                                                                                                                                                                     7
+                  Directive Principles                            principles of State policy and their relation to the rights.
+                                                                  The Union executive, the Parliament and the judiciary; the State executive
+     III          The Union and the States                        and legislature; the relation between the Union and the States in outline;                                   6
+                                                                  the amendment of the Constitution.
+                                                                  The Panchayati Raj and the municipalities; the principal constitutional
+                  Local Government and                            bodies — the Election Commission, the Union and State Public Service
+     IV                                                                                                                                                                        5
+                  Constitutional Bodies                           Commissions, the Comptroller and Auditor-General — in outline; the
+                                                                  citizen and the Constitution.
+Non-credit character. The course carries no credit and no marks contribute to the Semester Grade Point Average. It is a
+mandatory non-credit course, paired with the Indian Knowledge System across the two semesters and rotated by group, and a
+student must be graded Satisfactory to be eligible for the award of the degree. The grade is awarded by the college on attendance of
+not less than seventy-five per cent, one assignment, and one class test of twenty-five marks in which at least forty per cent is to be
+obtained. A student graded Unsatisfactory is re-examined in a following semester. The course gives effect to the AICTE
+mandatory-course requirement on the Constitution of India.
+
+Text and Reference Books
+    •        Durga Das Basu, Introduction to the Constitution of India, LexisNexis.
+    •        M. V. Pylee, India’s Constitution, S. Chand.
+    •        Subhash Kashyap, Our Constitution, National Book Trust.
+    •        AICTE material on the Indian Constitution mandatory course.
+Suggested SWAYAM / NPTEL and Online Resources
+    • SWAYAM / NPTEL — Introduction to the Constitution of India, as offered.
+    • Resources of the Ministry of Law and Justice and the Election Commission of India.
+
+
+Mandatory non-credit courses, paired across the two semesters and rotated by group. No marks contribute to the Semester
+Grade Point Average; each is graded Satisfactory or Unsatisfactory. A Satisfactory grade in both is a condition of the award
+of the degree.
+Grading components (both courses)
+              Component                                     What it consists of                                         Requirement                         Course outcome
+                                                                                                               Not less than 75% (a
+ Attendance                            Attendance across the semester                                                                                 CO1–CO3
+                                                                                                               necessary condition)
+                                       IKS: a sourced essay of about a thousand words on a
+                                       documented Indian contribution relevant to the                          Both submitted and judged              IKS CO2, CO3 / Const.
+ Assignment / essay
+                                       branch, and a site or museum visit report.                              acceptable                             CO2, CO3
+                                       Constitution: one assignment on a prescribed theme.
+ Class test                            One class test of 25 marks over the course                              At least 40% (10 of 25)                CO1, CO2
+
+The Satisfactory / Unsatisfactory decision
+    • Satisfactory (S): attendance not less than 75%, both the assignment / essay (and, for IKS, the visit report) submitted
+      and acceptable, and at least 50% in the class test.
+    • Unsatisfactory (US): any one of the above not met.
+    • A student graded Unsatisfactory is re-examined or re-assessed in a following semester; the grade does not enter the
+      SGPA either way.
+    • A Satisfactory grade in both mandatory courses, across the two semesters, is a necessary condition of the award of the
+      degree.
+Assessed by the subject teacher and recorded by the college; no external examiner is required for a non-credit course. Records retained: the attendance register, the essay or assignment
+and visit report, the class-test scripts, and the Satisfactory / Unsatisfactory award sheet. Although non-credit, the Indian Knowledge System course remains the foundational IKS
+course required by the UGC Guidelines of 2023.
+
+
+                                                                                     Page 39 of 43
+                                        Maulana Abul Kalam Azad University of Technology, West Bengal
+               Detailed Syllabus · First Year (Finalised Structure, 11 POs) · Common to all B.Tech. programmes · Effective A.Y. 2026–27
+
+
+
+26-MC-182 — Indian Knowledge System
+Course Code                       26-MC-182                                Category                        Mandatory Course (Non-Credit)
+Course Title                      Indian Knowledge System                  L–T–P                           2–0–0
+Credits                           Nil                                      Contact Hours                   24
+Semester                          First or Second (by group)               Assessment                      Non-credit; Satisfactory / Unsatisfactory
+
+
+
+Prerequisites
+A mandatory non-credit course, paired with the Indian Constitution across the two semesters and rotated by group. It is self-
+contained and assumes no prior study and no knowledge of Sanskrit.
+   • No prerequisite; the course is introductory.
+   • No knowledge of Sanskrit is assumed; all primary material is read in translation.
+   • A general Class X familiarity with Indian history and geography is sufficient.
+Course Objectives
+   • To introduce the classification, sources and vocabulary of the Indian knowledge traditions.
+   • To survey the Indian contribution to mathematics, astronomy, the sciences of materials and construction, and health
+     and environment.
+   • To introduce the methods by which such knowledge was recorded and transmitted.
+   • To prepare the ground for the discipline-embedded Indian Knowledge System modules of the later years.
+Course Outcomes
+On completion of the course the student will be able to:
+    CO                                                             Statement                                                              Bloom
+                                                                                                                                        L2 –
+   CO1         Describe the classification, principal sources and vocabulary of the Indian knowledge traditions.
+                                                                                                                                      Understand
+               Give examples of the Indian contribution to mathematics, science, materials and construction relevant to                 L2 –
+   CO2
+               engineering.                                                                                                           Understand
+   CO3         Relate an element of the Indian knowledge tradition to the student’s own branch of engineering.                         L3 – Apply
+
+CO–PO Articulation Matrix
+Correlation: 3 substantial, 2 moderate, 1 slight, – none. Mapped against the eleven Programme Outcomes of the NBA (GAPC v4.0).
+CO \ PO        PO1       PO2        PO3        PO4        PO5        PO6        PO7        PO8       PO9        PO10       PO11
+   CO1           1         1            –        –          –          2         2          1          1           –         2
+   CO2           2         1            1        –          –          2         2          1          1           –         2
+   CO3           2         2            2        –          –          3         2          1          1           –         3
+
+
+
+
+                                                                    Page 40 of 43
+                                                Maulana Abul Kalam Azad University of Technology, West Bengal
+                   Detailed Syllabus · First Year (Finalised Structure, 11 POs) · Common to all B.Tech. programmes · Effective A.Y. 2026–27
+
+
+Course Plan — Module-wise Syllabus
+ Module                          Title                                                                            Contents                                                                  Hours
+
+                                                          The classification of the Indian knowledge traditions; the vidyāsthāna scheme; the primary
+                 Introduction to the Indian
+      I                                                   sources and the vocabulary; the sūtra–vr tti–bhāṣya form of recording knowledge; the oral and                                       5
+                 Knowledge System
+                                                          the manuscript tradition and their preservation.
+
+                                                          The Indian number system and the place-value notation; śulba-sūtra geometry; the algorithmic
+      II         Mathematics and Astronomy                tradition — Āryabhaṭa, Brahmagupta, Bhāskara; Piṅgala’s combinatorics and binary                                                    7
+                                                          enumeration; Indian astronomy and the yantras of the observatories, in outline.
+
+                                                          Metallurgy — wootz (crucible) steel and the corrosion-resistant iron; construction — the Śilpa-
+                 Materials, Construction and
+     III                                                  and Vāstu-śāstra, temple and civic architecture, lime mortars and standardised brick; water —                                       7
+                 Technology
+                                                          stepwells, tanks and traditional harvesting; the craft traditions and the śreṇī (guild) system.
+
+                                             Āyurveda and the traditions of health in outline; the environmental and sustainability logic of the
+                 Health, Environment and the
+     IV                                      Indian traditions; the connection of the Indian knowledge tradition to the student’s own branch,                                                 5
+                 Engineering Connection
+                                             previewing the discipline-embedded modules of the later years.
+
+Non-credit character. The course carries no credit and no marks contribute to the Semester Grade Point Average. It is a
+mandatory non-credit course, paired with the Indian Constitution across the two semesters and rotated by group, and a student
+must be graded Satisfactory to be eligible for the award of the degree. The grade is awarded by the college on attendance of not less
+than seventy-five per cent, one sourced short essay of about a thousand words on a documented Indian contribution relevant to the
+student’s branch, one site or museum visit report, and one class test of twenty-five marks in which at least forty per cent is to be
+obtained. A student graded Unsatisfactory is re-examined in a following semester. Although non-credit, it is the foundational Indian
+Knowledge Systems course required by the UGC Guidelines of 2023 and the anchor of the discipline-embedded IKS modules of
+the later years.
+
+Text and Reference Books
+    • B. Mahadevan, Vinayak Rajat Bhat and Nagendra Pavana R. N., Introduction to Indian Knowledge System: Concepts and
+      Applications, PHI.
+    • Kapil Kapoor and Avadhesh Kumar Singh (eds.), Indian Knowledge Systems, D. K. Printworld.
+    • Pride of India: A Glimpse into India’s Scientific Heritage, Samskrita Bharati.
+    • AICTE / Ministry of Education material on the Indian Knowledge System.
+
+Suggested SWAYAM / NPTEL and Online Resources
+    • SWAYAM / NPTEL — Introduction to Indian Knowledge System / Indian Culture and Heritage, as offered.
+    • Resources of the IKS Division, Ministry of Education (iksindia.org).
+Mandatory non-credit courses, paired across the two semesters and rotated by group. No marks contribute to the Semester Grade
+Point Average; each is graded Satisfactory or Unsatisfactory. A Satisfactory grade in both is a condition of the award of the degree.
+
+Grading components (both courses)
+           Component                                        What it consists of                                           Requirement                         Course outcome
+                                                                                                               Not less than 75% (a
+ Attendance                            Attendance across the semester                                                                                    CO1–CO3
+                                                                                                               necessary condition)
+                                       IKS: a sourced essay of about a thousand words on a
+                                       documented Indian contribution relevant to the                          Both submitted and judged                 IKS CO2, CO3 / Const.
+ Assignment / essay
+                                       branch, and a site or museum visit report.                              acceptable                                CO2, CO3
+                                       Constitution: one assignment on a prescribed theme.
+ Class test                            One class test of 25 marks over the course                              At least 40% (10 of 25)                   CO1, CO2
+
+The Satisfactory / Unsatisfactory decision
+    • Satisfactory (S): attendance not less than 75%, both the assignment / essay (and, for IKS, the visit report) submitted and
+      acceptable, and at least 50% in the class test.
+    • Unsatisfactory (US): any one of the above not met.
+    • A student graded Unsatisfactory is re-examined or re-assessed in a following semester; the grade does not enter the SGPA
+      either way.
+    • A Satisfactory grade in both mandatory courses, across the two semesters, is a necessary condition of the award of the degree.
+Assessed by the subject teacher and recorded by the college; no external examiner is required for a non-credit course. Records retained: the attendance register, the essay or assignment
+and visit report, the class-test scripts, and the Satisfactory / Unsatisfactory award sheet. Although non-credit, the Indian Knowledge System course remains the foundational IKS
+course required by the UGC Guidelines of 2023.
+
+
+                                                                                     Page 41 of 43
+                                    Maulana Abul Kalam Azad University of Technology, West Bengal
+            Detailed Syllabus · First Year (Finalised Structure, 11 POs) · Common to all B.Tech. programmes · Effective A.Y. 2026–27
+
+
+
+
+Rubric Bank — the four-band scale for the qualitative components
+Every qualitative component named in the schemes above is marked on this four-band scale. The band gives the fraction of
+the component’s marks, and is published to the student before the task is set.
+                                    Excellent (90–                                                               Needs Improvement
+       Sr.No      Criterion
+                                       100%)
+                                                            Good (70–89%)           Satisfactory (50–69%)
+                                                                                                                       (<50%)
+                                   Present and fully
+                Participation      engaged                                         Present, limited
+      1         and regularity     throughout;
+                                                        Regular and engaged
+                                                                                   engagement
+                                                                                                                Irregular or passive
+                                   initiates
+                Discipline,
+                                   Exemplary; a
+      2         conduct and
+                                   model to peers
+                                                        Consistently responsible   Generally acceptable         Repeated lapses
+                responsibility
+                                   Skilful, accurate,
+                Skill / activity                                                   Basic competence with        Below the expected
+      3         performance
+                                   safe; near-          Competent and safe
+                                                                                   guidance                     standard
+                                   independent
+                Teamwork
+                                   Leads and enables                               Works in the team when       Works in isolation or
+      4         and
+                                   the team
+                                                        Collaborates effectively
+                                                                                   directed                     disrupts
+                interpersonal
+                Communicati Clear, fluent,
+                                                                                   Understandable, some
+      5         on (oral / GD confident, well-          Clear and organised
+                                                                                   hesitation
+                                                                                                                Unclear or disorganised
+                / interview)  structured
+                                 Complete, correct,
+                Task /                                                             Mostly complete, minor
+      6         artefact quality
+                                 well-presented,        Complete and correct
+                                                                                   errors
+                                                                                                                Incomplete or incorrect
+                                 original
+                                   Insightful; links
+                Reflection                                                         Descriptive, some
+      7         quality
+                                   learning to the      Thoughtful and relevant
+                                                                                   reflection
+                                                                                                                Superficial or absent
+                                   programme
+                Record / log       Thorough, orderly,
+      8         / portfolio        reproducible
+                                                      Complete and orderly         Adequate                     Sparse or disorganised
+
+
+
+
+Applying the bands
+  • The assessor selects one band per criterion and awards the mid-point of the band unless a specific justification is
+    recorded; the component mark is the sum, or weighted mean, across its criteria.
+  • For the NCC / NSS / Yoga participation, conduct and skill components, criteria 1–4 apply; for the SEC and the AEC
+    courses, criteria 5–7; the record / log criterion applies wherever a log or portfolio is required.
+  • A copy of the completed rubric sheet is retained with the assessment record for audit.
+
+
+
+
+                                                                 Page 42 of 43
+                                   Maulana Abul Kalam Azad University of Technology, West Bengal
+            Detailed Syllabus · First Year (Finalised Structure, 11 POs) · Common to all B.Tech. programmes · Effective A.Y. 2026–27
+
+
+
+
+Part VII — Sources and Benchmarking
+
+VII.1 Policy and regulatory instruments
+  • Ministry of Education, Government of India. National Education Policy 2020.
+  • University Grants Commission. Curriculum and Credit Framework for Undergraduate Programmes, 2022.
+  • University Grants Commission. Guidelines for Incorporating Indian Knowledge System in Higher Education Curricula,
+    2023; and the draft Guidelines and Curriculum Framework on Mission LiFE at the Undergraduate Level.
+  • All India Council for Technical Education. Model Curriculum for Undergraduate Degree Courses in Engineering and
+    Technology — the first-year common syllabus, Universal Human Values and the mandatory course list.
+  • National Board of Accreditation. GAPC v4.0 accreditation framework (Washington Accord aligned) — the eleven
+    Programme Outcomes of Part I and the attainment framework.
+  • National Assessment and Accreditation Council. Revised Assessment and Accreditation Framework — Criteria 1 and 2.
+  • Bureau of Indian Standards, SP 46 — Engineering Drawing Practice, for the Graphics course.
+  • Direction of the Hon’ble Supreme Court of India on compulsory environmental education, and the consequent UGC
+    syllabus.
+
+VII.2 University documents
+  • MAKAUT, WB. Finalised NEP 2020 Compliant Curriculum Structure for the First Year (B.Tech. First Year,
+    MAKAUT 2026), effective A.Y. 2026–27 — reproduced in Part V.
+  • MAKAUT, WB. Suggested modifications to the Basic Electrical and Electronics Engineering theory and laboratory
+    syllabus — incorporated in ES-EE101 and ES-EE191.
+  • MAKAUT, WB. Detailed syllabus of ES-CS201 Programming for Problem Solving (with the Introduction to Artificial
+    Intelligence module) — incorporated in ES-CS201 and ES-CS291.
+
+VII.3 School syllabi consulted for the prerequisite mapping
+  • West Bengal Council of Higher Secondary Education — Mathematics, Physics, Chemistry, Biology, Computer
+    Application and English, Classes XI and XII.
+  • Central Board of Secondary Education — the corresponding subjects, Classes XI and XII.
+  • Council for the Indian School Certificate Examinations — the ISC syllabuses for the corresponding subjects.
+  • West Bengal Board of Secondary Education — Class X Science and Mathematics.
+
+VII.4 Institutional syllabi consulted
+The first-year syllabi of the following were examined for the module sequence, depth and treatment of the common first year.
+No syllabus has been adopted; the responsibility for the content is the University’s.
+  • Indian Institute of Technology Kharagpur and Madras — first-year core courses, the Physics and Chemistry
+    laboratories, and Problem Solving through Programming.
+  • Jadavpur University, Faculty of Engineering and Technology — first-year Mathematics, Physics, Chemistry and Basic
+    Electrical and Electronics.
+  • National Institute of Technology Durgapur and IIEST Shibpur — first-year common curriculum, workshop and
+    graphics.
+  • Anna University Regulation 2023 and Visvesvaraya Technological University 2022 scheme — NEP-aligned first-year
+    structures and the Physics/Chemistry group rotation.
+  • AICTE model first-year cycle-rotation scheme, and the AICTE model syllabus for the Introduction to Artificial
+    Intelligence content.
+
+
+
+
+                                                                 Page 43 of 43
+

@@ -1,9 +1,9 @@
 /** Curriculum Terminal data: verified public information with explicit provenance, uncertainty, and source IDs. */
 export const assets = {
-  hero: "/manus-storage/aec-cse-guide-hero_1ba87b8c.png",
-  circuit: "/manus-storage/aec-cse-guide-circuit-detail_0eef9d06.png",
-  source: "/manus-storage/aec-cse-guide-source-detail_e5bce844.png",
-  mark: "/manus-storage/aec-cse-route-mark_48c4c213.png",
+  hero: "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1800&q=88",
+  circuit: "https://images.unsplash.com/photo-1510511459019-5dda7724fd87?auto=format&fit=crop&w=1200&q=88",
+  source: "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1600&q=88",
+  mark: "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Cpath fill='%23d6ff3d' d='M9 15h20v9H18v29H9zM35 10h20v9H44v12h11v9H44v14h11v9H35z'/%3E%3C/svg%3E",
 };
 
 export const navItems = [
@@ -115,4 +115,17 @@ export const references = [
   ["19", "AEC CSE faculty — department Google Site", "https://sites.google.com/view/aecwb-cse/academics/department/cse-faculty-members"], ["20", "AEC Electronics & Communication Engineering department", "https://www.aecwb.edu.in/ece-department.php"],
   ["21", "AEC Electrical Engineering faculty — department Google Site", "https://sites.google.com/view/aec-ee/people/faculty-members"], ["22", "AEC Mechanical Engineering faculty — department Google Site", "https://sites.google.com/view/department-of-me-aec/academics/faculty-members"],
   ["23", "AEC Computer Science and Business Systems department", "https://www.aecwb.edu.in/csbs-department.php"], ["24", "AEC CSE technical assistants — department Google Site", "https://sites.google.com/view/aecwb-cse/academics/department/cse-technical-assistants"],
+] as const;
+
+export const searchEntries = [
+  { id: "start", label: "Start here", detail: "B.Tech CSE first-year survival guide", terms: "aec cheatsheet btech cse first year start official route" },
+  { id: "curriculum", label: "First-year CSE curriculum", detail: "MAKAUT course codes, credits and semester structure", terms: "syllabus curriculum semester course code credits mathematics physics chemistry programming AI BTech CSE R25 NEP" },
+  { id: "calendar", label: "Calendar & exams", detail: "CA dates, attendance, form fill-up and examinations", terms: "calendar exam assessment CA attendance form fill up theory viva practical routine deadline" },
+  { id: "library", label: "Library & skills", detail: "OPAC, Knimbus, e-copy, MOOCs, NPTEL and SWAYAM", terms: "library book opac knimbus e library journal past paper nptel swayam mooc skills" },
+  { id: "placements", label: "Placements", detail: "Published CTC, percentage, recruiter and source-conflict notes", terms: "placement package ctc highest average recruiter offer job internship nirf shiksha wbjeeb" },
+  { id: "contacts", label: "Contacts", detail: "AEC central administration and department routes", terms: "contact principal registrar HOD exam cell TPO placement email phone address ECE EE ME civil IT CSBS" },
+  { id: "faculty", label: "CSE faculty directory", detail: "Faculty designations and displayed institutional emails", terms: "faculty professor assistant email debasis monish sandip pintu subhendu teacher CSE" },
+  { id: "campus", label: "Fees & hostel", detail: "CSE fee reference, hostel availability and cautions", terms: "fees fee tuition payment hostel room boys girls AC non AC WBJEEB amount rupees" },
+  { id: "social", label: "Official social register", detail: "AEC website-linked Facebook, Instagram, LinkedIn and X routes", terms: "social facebook instagram linkedin twitter x youtube official channel" },
+  { id: "sources", label: "Sources & reliability", detail: "Official references and which route to trust first", terms: "sources reference citation verification official makaut AEC reliability" },
 ] as const;

@@ -67,3 +67,9 @@ The wordmark uses a custom bracketed terminal construction: `AEC//CSE` paired wi
 
 ### Signature Brand Color
 **Route Yellow — #D6FF3D.** It is reserved for verified wayfinding, critical labels, and the graphic mark.
+
+## Style Decisions
+
+- The desktop page must visibly behave as an offset technical folio: the reading rail anchors the document field with datum lines, persistent source codes, and sequential field-note markers.
+- `AEC//CSE` and the slanted Route Yellow coordinate glyph recur in the header, footer, hero and major section transitions. **AECCHEATSHEET** remains the product name; `AEC//CSE` is its institutional terminal signature.
+- Images are treated as dark evidence bands, augmented with coordinate overlays, scan lines and document-trace motifs rather than generic decorative technology photography.

@@ -9,5 +9,5 @@ export default defineConfig({
   resolve: { alias: { "@": path.resolve(import.meta.dirname, "client", "src") } },
   root: path.resolve(import.meta.dirname, "client"),
   build: { outDir: path.resolve(import.meta.dirname, "dist"), emptyOutDir: true },
-  server: { host: true, allowedHosts: [".manus.computer", ".manus-asia.computer", ".manuspre.computer", "localhost", "127.0.0.1"] },
+  server: { host: true, allowedHosts: true },
 });

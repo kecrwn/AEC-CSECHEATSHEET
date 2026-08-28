@@ -8,6 +8,17 @@ export default defineConfig({
   plugins: [react(), tailwindcss()],
   resolve: { alias: { "@": path.resolve(import.meta.dirname, "client", "src") } },
   root: path.resolve(import.meta.dirname, "client"),
-  build: { outDir: path.resolve(import.meta.dirname, "dist"), emptyOutDir: true },
+  build: {
+    outDir: path.resolve(import.meta.dirname, "dist"),
+    emptyOutDir: true,
+    rollupOptions: {
+      output: {
+        manualChunks: {
+          "react-runtime": ["react", "react-dom", "wouter"],
+          "interface-runtime": ["cmdk", "lucide-react"],
+        },
+      },
+    },
+  },
   server: { host: true, allowedHosts: true },
 });
